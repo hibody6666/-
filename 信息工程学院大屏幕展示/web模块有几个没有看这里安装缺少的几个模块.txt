@@ -1,0 +1,1 @@
+pip install dash_bootstrap_components dash workcloud fake-useragent schedule

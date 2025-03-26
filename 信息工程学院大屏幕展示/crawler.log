@@ -1,0 +1,1637 @@
+2025-03-23 00:05:48,813 - JobFreeSystem - INFO - ÕÐÆ¸Êý¾Ý·ÖÎöÏµÍ³Æô¶¯
+2025-03-23 00:05:48,815 - JobFreeSystem - INFO - ¶¨Ê±ÈÎÎñÒÑÉèÖÃ
+2025-03-23 00:05:48,815 - JobFreeSystem - INFO - ¶¨Ê±ÈÎÎñµ÷¶ÈÆ÷ÒÑÔÚºóÌ¨Æô¶¯
+2025-03-23 00:05:48,815 - JobFreeSystem - INFO - Æô¶¯WebÓ¦ÓÃ£¬¼àÌýµØÖ·: 0.0.0.0:8050
+2025-03-23 00:06:47,988 - JobFreeSystem - INFO - ÕÐÆ¸Êý¾Ý·ÖÎöÏµÍ³Æô¶¯
+2025-03-23 00:06:47,989 - JobFreeSystem - INFO - ¶¨Ê±ÈÎÎñÒÑÉèÖÃ
+2025-03-23 00:06:47,989 - JobFreeSystem - INFO - ¶¨Ê±ÈÎÎñµ÷¶ÈÆ÷ÒÑÔÚºóÌ¨Æô¶¯
+2025-03-23 00:06:47,990 - JobFreeSystem - INFO - Æô¶¯WebÓ¦ÓÃ£¬¼àÌýµØÖ·: 0.0.0.0:8050
+2025-03-23 00:06:47,990 - dash.dash - INFO - Dash is running on http://0.0.0.0:8050/
+
+2025-03-23 00:06:48,064 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8050
+ * Running on http://192.168.10.181:8050
+2025-03-23 00:06:48,065 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-23 00:06:59,341 - werkzeug - INFO - 192.168.10.181 - - [23/Mar/2025 00:06:59] "GET / HTTP/1.1" 200 -
+2025-03-23 00:06:59,422 - werkzeug - INFO - 192.168.10.181 - - [23/Mar/2025 00:06:59] "GET /_dash-component-suites/dash/deps/react@18.v3_0_0m1742659414.3.1.min.js HTTP/1.1" 200 -
+2025-03-23 00:06:59,427 - werkzeug - INFO - 192.168.10.181 - - [23/Mar/2025 00:06:59] "GET /_dash-component-suites/dash/deps/polyfill@7.v3_0_0m1742659414.12.1.min.js HTTP/1.1" 200 -
+2025-03-23 00:06:59,433 - werkzeug - INFO - 192.168.10.181 - - [23/Mar/2025 00:06:59] "GET /_dash-component-suites/dash/dash-renderer/build/dash_renderer.v3_0_0m1742659414.min.js HTTP/1.1" 200 -
+2025-03-23 00:06:59,435 - werkzeug - INFO - 192.168.10.181 - - [23/Mar/2025 00:06:59] "GET /_dash-component-suites/dash/deps/prop-types@15.v3_0_0m1742659414.8.1.min.js HTTP/1.1" 200 -
+2025-03-23 00:06:59,436 - werkzeug - INFO - 192.168.10.181 - - [23/Mar/2025 00:06:59] "GET /_dash-component-suites/dash/deps/react-dom@18.v3_0_0m1742659414.3.1.min.js HTTP/1.1" 200 -
+2025-03-23 00:06:59,436 - werkzeug - INFO - 192.168.10.181 - - [23/Mar/2025 00:06:59] "GET /_dash-component-suites/dash_bootstrap_components/_components/dash_bootstrap_components.v2_0_0m1742659523.min.js HTTP/1.1" 200 -
+2025-03-23 00:06:59,447 - werkzeug - INFO - 192.168.10.181 - - [23/Mar/2025 00:06:59] "GET /_dash-component-suites/dash/dcc/dash_core_components.v3_0_3m1742659414.js HTTP/1.1" 200 -
+2025-03-23 00:06:59,492 - werkzeug - INFO - 192.168.10.181 - - [23/Mar/2025 00:06:59] "GET /_dash-component-suites/dash/dcc/dash_core_components-shared.v3_0_3m1742659414.js HTTP/1.1" 200 -
+2025-03-23 00:06:59,508 - werkzeug - INFO - 192.168.10.181 - - [23/Mar/2025 00:06:59] "GET /_dash-component-suites/dash/html/dash_html_components.v3_0_1m1742659414.min.js HTTP/1.1" 200 -
+2025-03-23 00:06:59,589 - werkzeug - INFO - 192.168.10.181 - - [23/Mar/2025 00:06:59] "GET /_dash-component-suites/dash/dash_table/bundle.v6_0_1m1742659414.js HTTP/1.1" 200 -
+2025-03-23 00:07:17,826 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:07:17] "GET / HTTP/1.1" 200 -
+2025-03-23 00:07:17,913 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:07:17] "GET /_dash-component-suites/dash/deps/polyfill@7.v3_0_0m1742659414.12.1.min.js HTTP/1.1" 200 -
+2025-03-23 00:07:17,918 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:07:17] "GET /_dash-component-suites/dash/deps/prop-types@15.v3_0_0m1742659414.8.1.min.js HTTP/1.1" 200 -
+2025-03-23 00:07:17,918 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:07:17] "GET /_dash-component-suites/dash/deps/react@18.v3_0_0m1742659414.3.1.min.js HTTP/1.1" 200 -
+2025-03-23 00:07:17,920 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:07:17] "GET /_dash-component-suites/dash/deps/react-dom@18.v3_0_0m1742659414.3.1.min.js HTTP/1.1" 200 -
+2025-03-23 00:07:17,922 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:07:17] "GET /_dash-component-suites/dash/dash-renderer/build/dash_renderer.v3_0_0m1742659414.min.js HTTP/1.1" 200 -
+2025-03-23 00:07:17,922 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:07:17] "GET /_dash-component-suites/dash_bootstrap_components/_components/dash_bootstrap_components.v2_0_0m1742659523.min.js HTTP/1.1" 200 -
+2025-03-23 00:07:17,924 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:07:17] "GET /_dash-component-suites/dash/dcc/dash_core_components.v3_0_3m1742659414.js HTTP/1.1" 200 -
+2025-03-23 00:07:17,930 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:07:17] "GET /_dash-component-suites/dash/dcc/dash_core_components-shared.v3_0_3m1742659414.js HTTP/1.1" 200 -
+2025-03-23 00:07:17,932 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:07:17] "GET /_dash-component-suites/dash/html/dash_html_components.v3_0_1m1742659414.min.js HTTP/1.1" 200 -
+2025-03-23 00:07:17,933 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:07:17] "GET /_dash-component-suites/dash/dash_table/bundle.v6_0_1m1742659414.js HTTP/1.1" 200 -
+2025-03-23 00:07:20,115 - werkzeug - INFO - 192.168.10.181 - - [23/Mar/2025 00:07:20] "GET /_dash-layout HTTP/1.1" 200 -
+2025-03-23 00:07:20,117 - werkzeug - INFO - 192.168.10.181 - - [23/Mar/2025 00:07:20] "GET /_dash-dependencies HTTP/1.1" 200 -
+2025-03-23 00:07:20,234 - werkzeug - INFO - 192.168.10.181 - - [23/Mar/2025 00:07:20] "GET /_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1" 200 -
+2025-03-23 00:07:20,235 - werkzeug - INFO - 192.168.10.181 - - [23/Mar/2025 00:07:20] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:07:20,251 - werkzeug - INFO - 192.168.10.181 - - [23/Mar/2025 00:07:20] "GET /_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1" 200 -
+2025-03-23 00:07:20,298 - werkzeug - INFO - 192.168.10.181 - - [23/Mar/2025 00:07:20] "GET /_favicon.ico?v=3.0.0 HTTP/1.1" 200 -
+2025-03-23 00:07:20,336 - werkzeug - INFO - 192.168.10.181 - - [23/Mar/2025 00:07:20] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:07:20,376 - werkzeug - INFO - 192.168.10.181 - - [23/Mar/2025 00:07:20] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:07:20,378 - werkzeug - INFO - 192.168.10.181 - - [23/Mar/2025 00:07:20] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:07:20,381 - werkzeug - INFO - 192.168.10.181 - - [23/Mar/2025 00:07:20] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:07:20,383 - werkzeug - INFO - 192.168.10.181 - - [23/Mar/2025 00:07:20] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:07:20,386 - werkzeug - INFO - 192.168.10.181 - - [23/Mar/2025 00:07:20] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:07:20,388 - werkzeug - INFO - 192.168.10.181 - - [23/Mar/2025 00:07:20] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:07:20,413 - werkzeug - INFO - 192.168.10.181 - - [23/Mar/2025 00:07:20] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:07:20,415 - werkzeug - INFO - 192.168.10.181 - - [23/Mar/2025 00:07:20] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:07:21,222 - werkzeug - INFO - 192.168.10.181 - - [23/Mar/2025 00:07:21] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:07:21,271 - werkzeug - INFO - 192.168.10.181 - - [23/Mar/2025 00:07:21] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:07:21,273 - werkzeug - INFO - 192.168.10.181 - - [23/Mar/2025 00:07:21] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:07:21,275 - werkzeug - INFO - 192.168.10.181 - - [23/Mar/2025 00:07:21] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:07:21,277 - werkzeug - INFO - 192.168.10.181 - - [23/Mar/2025 00:07:21] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:07:21,280 - werkzeug - INFO - 192.168.10.181 - - [23/Mar/2025 00:07:21] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:07:21,283 - werkzeug - INFO - 192.168.10.181 - - [23/Mar/2025 00:07:21] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:07:21,304 - werkzeug - INFO - 192.168.10.181 - - [23/Mar/2025 00:07:21] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:07:21,306 - werkzeug - INFO - 192.168.10.181 - - [23/Mar/2025 00:07:21] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:07:21,328 - werkzeug - INFO - 192.168.10.181 - - [23/Mar/2025 00:07:21] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:07:28,868 - werkzeug - INFO - 192.168.10.181 - - [23/Mar/2025 00:07:28] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:07:33,368 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:07:33] "GET /_dash-layout HTTP/1.1" 200 -
+2025-03-23 00:07:33,370 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:07:33] "GET /_dash-dependencies HTTP/1.1" 200 -
+2025-03-23 00:07:33,431 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:07:33] "GET /_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1" 200 -
+2025-03-23 00:07:33,443 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:07:33] "GET /_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1" 200 -
+2025-03-23 00:07:33,463 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:07:33] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:07:33,477 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:07:33] "GET /_favicon.ico?v=3.0.0 HTTP/1.1" 200 -
+2025-03-23 00:07:33,489 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:07:33] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:07:33,504 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:07:33] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:07:33,515 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:07:33] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:07:33,523 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:07:33] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:07:33,530 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:07:33] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:07:33,545 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:07:33] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:07:33,553 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:07:33] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:07:33,559 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:07:33] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:07:33,561 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:07:33] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:07:34,467 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:07:34] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:07:34,534 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:07:34] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:07:34,575 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:07:34] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:07:34,604 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:07:34] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:07:34,636 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:07:34] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:07:34,668 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:07:34] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:07:34,701 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:07:34] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:07:34,747 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:07:34] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:07:34,749 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:07:34] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:07:34,768 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:07:34] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:08:13,116 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:08:13] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:08:18,986 - JobCrawler - INFO - ¿ªÊ¼Ã¿ÈÕÅÀÈ¡ÈÎÎñ
+2025-03-23 00:08:18,990 - JobCrawler - INFO - ¿ªÊ¼ÅÀÈ¡ÖÇÁªÕÐÆ¸
+2025-03-23 00:08:35,905 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:08:35] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:09:04,958 - JobCrawler - INFO - ³É¹¦´ÓÖÇÁªÕÐÆ¸ÅÀÈ¡0ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 00:09:09,478 - JobCrawler - INFO - ¿ªÊ¼ÅÀÈ¡Ç°³ÌÎÞÓÇ
+2025-03-23 00:09:15,250 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:09:15] "GET / HTTP/1.1" 200 -
+2025-03-23 00:09:26,807 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:09:26] "GET / HTTP/1.1" 200 -
+2025-03-23 00:09:30,885 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:09:30] "GET /_dash-layout HTTP/1.1" 200 -
+2025-03-23 00:09:30,887 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:09:30] "GET /_dash-dependencies HTTP/1.1" 200 -
+2025-03-23 00:09:30,944 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:09:30] "[36mGET /_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1[0m" 304 -
+2025-03-23 00:09:30,959 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:09:30] "GET /_favicon.ico?v=3.0.0 HTTP/1.1" 200 -
+2025-03-23 00:09:30,975 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:09:30] "[36mGET /_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1[0m" 304 -
+2025-03-23 00:09:30,975 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:09:30] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:09:31,003 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:09:31] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:09:31,018 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:09:31] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:09:31,031 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:09:31] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:09:31,039 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:09:31] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:09:31,052 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:09:31] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:09:31,065 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:09:31] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:09:31,074 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:09:31] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:09:31,076 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:09:31] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:09:31,091 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:09:31] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:09:31,954 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:09:31] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:09:31,972 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:09:31] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:09:31,981 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:09:31] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:09:31,987 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:09:31] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:09:31,996 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:09:31] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:09:32,004 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:09:32] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:09:32,011 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:09:32] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:09:32,021 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:09:32] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:09:32,023 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:09:32] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:09:32,036 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:09:32] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:10:00,157 - JobCrawler - INFO - ³É¹¦´ÓÇ°³ÌÎÞÓÇÅÀÈ¡0ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 00:10:03,656 - JobCrawler - INFO - ¿ªÊ¼ÅÀÈ¡À­¹´Íø
+2025-03-23 00:10:15,579 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'Ç°¶Ë'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-33: ordinal not in range(256)
+2025-03-23 00:10:16,038 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'ºó¶Ë'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-33: ordinal not in range(256)
+2025-03-23 00:10:16,279 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'È«Õ»'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-33: ordinal not in range(256)
+2025-03-23 00:10:16,561 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'Ëã·¨'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-33: ordinal not in range(256)
+2025-03-23 00:10:16,796 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'ÈË¹¤ÖÇÄÜ'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-35: ordinal not in range(256)
+2025-03-23 00:10:17,087 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'»úÆ÷Ñ§Ï°'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-35: ordinal not in range(256)
+2025-03-23 00:10:17,326 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'Éî¶ÈÑ§Ï°'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-35: ordinal not in range(256)
+2025-03-23 00:10:18,944 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'Êý¾Ý·ÖÎö'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-35: ordinal not in range(256)
+2025-03-23 00:10:19,217 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'´óÊý¾Ý'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-34: ordinal not in range(256)
+2025-03-23 00:10:19,734 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'ÔÆ¼ÆËã'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-34: ordinal not in range(256)
+2025-03-23 00:10:19,947 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'ÔËÎ¬'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-33: ordinal not in range(256)
+2025-03-23 00:10:20,155 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'²âÊÔ'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-33: ordinal not in range(256)
+2025-03-23 00:10:20,353 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'¿ª·¢'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-33: ordinal not in range(256)
+2025-03-23 00:10:20,552 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'¼Ü¹¹Ê¦'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-34: ordinal not in range(256)
+2025-03-23 00:10:20,766 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'Êý¾Ý¿â'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-34: ordinal not in range(256)
+2025-03-23 00:10:21,012 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'ÍøÂç°²È«'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-35: ordinal not in range(256)
+2025-03-23 00:10:21,988 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'Èí¼þ¹¤³ÌÊ¦'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-36: ordinal not in range(256)
+2025-03-23 00:10:22,293 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'³ÌÐòÔ±'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-34: ordinal not in range(256)
+2025-03-23 00:10:22,498 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'¿ª·¢¹¤³ÌÊ¦'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-36: ordinal not in range(256)
+2025-03-23 00:10:22,499 - JobCrawler - INFO - ³É¹¦´ÓÀ­¹´ÍøÅÀÈ¡0ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 00:10:25,330 - JobCrawler - INFO - ¿ªÊ¼ÅÀÈ¡BOSSÖ±Æ¸
+2025-03-23 00:11:56,091 - JobCrawler - INFO - ³É¹¦´ÓBOSSÖ±Æ¸ÅÀÈ¡0ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 00:11:59,042 - JobCrawler - WARNING - Î´ÅÀÈ¡µ½ÈÎºÎÕÐÆ¸ÐÅÏ¢
+2025-03-23 00:11:59,042 - JobCrawler - INFO - Ã¿ÈÕÅÀÈ¡ÈÎÎñÍê³É
+2025-03-23 00:11:59,043 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:11:59] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:17:31,248 - JobFreeSystem - INFO - ÕÐÆ¸Êý¾Ý·ÖÎöÏµÍ³Æô¶¯
+2025-03-23 00:17:31,249 - JobFreeSystem - INFO - ¿ªÊ¼Ö´ÐÐÊý¾Ý´¦ÀíÁ÷³Ì
+2025-03-23 00:17:31,250 - JobFreeSystem - INFO - ¿ªÊ¼ÅÀÈ¡ÕÐÆ¸Êý¾Ý
+2025-03-23 00:17:31,284 - JobCrawler - INFO - ¿ªÊ¼Ã¿ÈÕÅÀÈ¡ÈÎÎñ
+2025-03-23 00:17:31,286 - JobCrawler - INFO - ¿ªÊ¼ÅÀÈ¡ÖÇÁªÕÐÆ¸
+2025-03-23 00:17:31,286 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Java' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:17:31,287 - JobCrawler - ERROR - ÅÀÈ¡ÖÇÁªÕÐÆ¸¹Ø¼ü´Ê'Java'Ê±³ö´í: invalid literal for int() with base 10: '10Äê'
+2025-03-23 00:17:31,287 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Python' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:17:31,287 - JobCrawler - ERROR - ÅÀÈ¡ÖÇÁªÕÐÆ¸¹Ø¼ü´Ê'Python'Ê±³ö´í: invalid literal for int() with base 10: '3Äê'
+2025-03-23 00:17:31,288 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'C++' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:17:31,288 - JobCrawler - ERROR - ÅÀÈ¡ÖÇÁªÕÐÆ¸¹Ø¼ü´Ê'C++'Ê±³ö´í: invalid literal for int() with base 10: '10Äê'
+2025-03-23 00:17:31,288 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Ç°¶Ë' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:17:31,288 - JobCrawler - ERROR - ÅÀÈ¡ÖÇÁªÕÐÆ¸¹Ø¼ü´Ê'Ç°¶Ë'Ê±³ö´í: invalid literal for int() with base 10: '5Äê'
+2025-03-23 00:17:31,289 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ºó¶Ë' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:17:31,289 - JobCrawler - ERROR - ÅÀÈ¡ÖÇÁªÕÐÆ¸¹Ø¼ü´Ê'ºó¶Ë'Ê±³ö´í: invalid literal for int() with base 10: '10Äê'
+2025-03-23 00:17:31,290 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'È«Õ»' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:17:31,290 - JobCrawler - ERROR - ÅÀÈ¡ÖÇÁªÕÐÆ¸¹Ø¼ü´Ê'È«Õ»'Ê±³ö´í: invalid literal for int() with base 10: '3Äê'
+2025-03-23 00:17:31,290 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Ëã·¨' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:17:31,291 - JobCrawler - ERROR - ÅÀÈ¡ÖÇÁªÕÐÆ¸¹Ø¼ü´Ê'Ëã·¨'Ê±³ö´í: invalid literal for int() with base 10: '10Äê'
+2025-03-23 00:17:31,291 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ÈË¹¤ÖÇÄÜ' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:17:31,291 - JobCrawler - ERROR - ÅÀÈ¡ÖÇÁªÕÐÆ¸¹Ø¼ü´Ê'ÈË¹¤ÖÇÄÜ'Ê±³ö´í: invalid literal for int() with base 10: '5Äê'
+2025-03-23 00:17:31,292 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '»úÆ÷Ñ§Ï°' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:17:31,292 - JobCrawler - ERROR - ÅÀÈ¡ÖÇÁªÕÐÆ¸¹Ø¼ü´Ê'»úÆ÷Ñ§Ï°'Ê±³ö´í: invalid literal for int() with base 10: '5Äê'
+2025-03-23 00:17:31,292 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Éî¶ÈÑ§Ï°' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:17:31,292 - JobCrawler - ERROR - ÅÀÈ¡ÖÇÁªÕÐÆ¸¹Ø¼ü´Ê'Éî¶ÈÑ§Ï°'Ê±³ö´í: invalid literal for int() with base 10: '3Äê'
+2025-03-23 00:17:31,292 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Êý¾Ý·ÖÎö' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:17:31,293 - JobCrawler - ERROR - ÅÀÈ¡ÖÇÁªÕÐÆ¸¹Ø¼ü´Ê'Êý¾Ý·ÖÎö'Ê±³ö´í: invalid literal for int() with base 10: '5Äê'
+2025-03-23 00:17:31,293 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '´óÊý¾Ý' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:17:31,293 - JobCrawler - ERROR - ÅÀÈ¡ÖÇÁªÕÐÆ¸¹Ø¼ü´Ê'´óÊý¾Ý'Ê±³ö´í: invalid literal for int() with base 10: '10Äê'
+2025-03-23 00:17:31,293 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ÔÆ¼ÆËã' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:17:31,293 - JobCrawler - ERROR - ÅÀÈ¡ÖÇÁªÕÐÆ¸¹Ø¼ü´Ê'ÔÆ¼ÆËã'Ê±³ö´í: invalid literal for int() with base 10: '5Äê'
+2025-03-23 00:17:31,294 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ÔËÎ¬' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:17:31,294 - JobCrawler - ERROR - ÅÀÈ¡ÖÇÁªÕÐÆ¸¹Ø¼ü´Ê'ÔËÎ¬'Ê±³ö´í: invalid literal for int() with base 10: '5Äê'
+2025-03-23 00:17:31,294 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '²âÊÔ' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:17:31,295 - JobCrawler - ERROR - ÅÀÈ¡ÖÇÁªÕÐÆ¸¹Ø¼ü´Ê'²âÊÔ'Ê±³ö´í: invalid literal for int() with base 10: '5Äê'
+2025-03-23 00:17:31,295 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '¿ª·¢' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:17:31,295 - JobCrawler - ERROR - ÅÀÈ¡ÖÇÁªÕÐÆ¸¹Ø¼ü´Ê'¿ª·¢'Ê±³ö´í: invalid literal for int() with base 10: '10Äê'
+2025-03-23 00:17:31,296 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '¼Ü¹¹Ê¦' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:17:31,296 - JobCrawler - ERROR - ÅÀÈ¡ÖÇÁªÕÐÆ¸¹Ø¼ü´Ê'¼Ü¹¹Ê¦'Ê±³ö´í: invalid literal for int() with base 10: '10Äê'
+2025-03-23 00:17:31,296 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Êý¾Ý¿â' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:17:31,296 - JobCrawler - ERROR - ÅÀÈ¡ÖÇÁªÕÐÆ¸¹Ø¼ü´Ê'Êý¾Ý¿â'Ê±³ö´í: invalid literal for int() with base 10: '3Äê'
+2025-03-23 00:17:31,296 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ÍøÂç°²È«' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:17:31,297 - JobCrawler - ERROR - ÅÀÈ¡ÖÇÁªÕÐÆ¸¹Ø¼ü´Ê'ÍøÂç°²È«'Ê±³ö´í: invalid literal for int() with base 10: '5Äê'
+2025-03-23 00:17:31,297 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Èí¼þ¹¤³ÌÊ¦' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:17:31,297 - JobCrawler - ERROR - ÅÀÈ¡ÖÇÁªÕÐÆ¸¹Ø¼ü´Ê'Èí¼þ¹¤³ÌÊ¦'Ê±³ö´í: invalid literal for int() with base 10: '5Äê'
+2025-03-23 00:17:31,298 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '³ÌÐòÔ±' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:17:31,298 - JobCrawler - ERROR - ÅÀÈ¡ÖÇÁªÕÐÆ¸¹Ø¼ü´Ê'³ÌÐòÔ±'Ê±³ö´í: invalid literal for int() with base 10: '3Äê'
+2025-03-23 00:17:31,298 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '¿ª·¢¹¤³ÌÊ¦' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:17:31,298 - JobCrawler - ERROR - ÅÀÈ¡ÖÇÁªÕÐÆ¸¹Ø¼ü´Ê'¿ª·¢¹¤³ÌÊ¦'Ê±³ö´í: invalid literal for int() with base 10: '3Äê'
+2025-03-23 00:17:31,299 - JobCrawler - INFO - ´ÓÖÇÁªÕÐÆ¸»ñÈ¡ÁË 10 ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 00:17:31,299 - JobCrawler - INFO - ³É¹¦´ÓÖÇÁªÕÐÆ¸ÅÀÈ¡10ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 00:17:33,613 - JobCrawler - INFO - ¿ªÊ¼ÅÀÈ¡Ç°³ÌÎÞÓÇ
+2025-03-23 00:18:19,369 - JobCrawler - INFO - ³É¹¦´ÓÇ°³ÌÎÞÓÇÅÀÈ¡0ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 00:18:23,058 - JobCrawler - INFO - ¿ªÊ¼ÅÀÈ¡À­¹´Íø
+2025-03-23 00:18:37,516 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'Ç°¶Ë'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-33: ordinal not in range(256)
+2025-03-23 00:18:38,022 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'ºó¶Ë'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-33: ordinal not in range(256)
+2025-03-23 00:18:38,506 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'È«Õ»'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-33: ordinal not in range(256)
+2025-03-23 00:18:38,815 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'Ëã·¨'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-33: ordinal not in range(256)
+2025-03-23 00:18:39,106 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'ÈË¹¤ÖÇÄÜ'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-35: ordinal not in range(256)
+2025-03-23 00:18:39,333 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'»úÆ÷Ñ§Ï°'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-35: ordinal not in range(256)
+2025-03-23 00:18:39,544 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'Éî¶ÈÑ§Ï°'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-35: ordinal not in range(256)
+2025-03-23 00:18:39,741 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'Êý¾Ý·ÖÎö'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-35: ordinal not in range(256)
+2025-03-23 00:18:39,947 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'´óÊý¾Ý'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-34: ordinal not in range(256)
+2025-03-23 00:18:40,182 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'ÔÆ¼ÆËã'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-34: ordinal not in range(256)
+2025-03-23 00:18:40,457 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'ÔËÎ¬'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-33: ordinal not in range(256)
+2025-03-23 00:18:41,278 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'²âÊÔ'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-33: ordinal not in range(256)
+2025-03-23 00:18:41,678 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'¿ª·¢'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-33: ordinal not in range(256)
+2025-03-23 00:18:42,014 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'¼Ü¹¹Ê¦'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-34: ordinal not in range(256)
+2025-03-23 00:18:42,248 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'Êý¾Ý¿â'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-34: ordinal not in range(256)
+2025-03-23 00:18:42,454 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'ÍøÂç°²È«'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-35: ordinal not in range(256)
+2025-03-23 00:18:42,645 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'Èí¼þ¹¤³ÌÊ¦'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-36: ordinal not in range(256)
+2025-03-23 00:18:42,830 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'³ÌÐòÔ±'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-34: ordinal not in range(256)
+2025-03-23 00:18:43,011 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'¿ª·¢¹¤³ÌÊ¦'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-36: ordinal not in range(256)
+2025-03-23 00:18:43,012 - JobCrawler - INFO - ³É¹¦´ÓÀ­¹´ÍøÅÀÈ¡0ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 00:18:47,345 - JobCrawler - INFO - ¿ªÊ¼ÅÀÈ¡BOSSÖ±Æ¸
+2025-03-23 00:20:23,205 - JobCrawler - INFO - ³É¹¦´ÓBOSSÖ±Æ¸ÅÀÈ¡0ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 00:20:26,855 - JobCrawler - INFO - ³É¹¦±£´æ10ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 00:20:26,856 - JobCrawler - INFO - Ã¿ÈÕÅÀÈ¡ÈÎÎñÍê³É
+2025-03-23 00:20:26,856 - JobFreeSystem - INFO - ¿ªÊ¼ÇåÏ´ÕÐÆ¸Êý¾Ý
+2025-03-23 00:20:26,857 - jieba - DEBUG - Building prefix dict from the default dictionary ...
+2025-03-23 00:20:26,858 - jieba - DEBUG - Loading model from cache C:\Users\30946\AppData\Local\Temp\jieba.cache
+2025-03-23 00:20:28,145 - jieba - DEBUG - Loading model cost 1.288 seconds.
+2025-03-23 00:20:28,152 - jieba - DEBUG - Prefix dict has been built successfully.
+2025-03-23 00:20:28,160 - JobFreeSystem - ERROR - Êý¾Ý´¦ÀíÁ÷³ÌÖ´ÐÐ³ö´í: name 'pd' is not defined
+2025-03-23 00:20:28,189 - JobFreeSystem - INFO - ¶¨Ê±ÈÎÎñÒÑÉèÖÃ
+2025-03-23 00:20:28,189 - JobFreeSystem - INFO - ¶¨Ê±ÈÎÎñµ÷¶ÈÆ÷ÒÑÔÚºóÌ¨Æô¶¯
+2025-03-23 00:20:28,192 - JobFreeSystem - INFO - Æô¶¯WebÓ¦ÓÃ£¬¼àÌýµØÖ·: 0.0.0.0:8050
+2025-03-23 00:24:16,890 - JobFreeSystem - INFO - ÕÐÆ¸Êý¾Ý·ÖÎöÏµÍ³Æô¶¯
+2025-03-23 00:24:16,891 - JobFreeSystem - INFO - ¿ªÊ¼Ö´ÐÐÊý¾Ý´¦ÀíÁ÷³Ì
+2025-03-23 00:24:16,891 - JobFreeSystem - INFO - ¿ªÊ¼ÅÀÈ¡ÕÐÆ¸Êý¾Ý
+2025-03-23 00:24:16,944 - JobCrawler - INFO - ¿ªÊ¼Ã¿ÈÕÅÀÈ¡ÈÎÎñ
+2025-03-23 00:24:16,946 - JobCrawler - INFO - ¿ªÊ¼ÅÀÈ¡ÖÇÁªÕÐÆ¸
+2025-03-23 00:24:16,946 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Java' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:24:18,162 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Python' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:24:18,945 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'C++' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:24:19,600 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Ç°¶Ë' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:24:20,406 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ºó¶Ë' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:24:20,449 - JobFreeSystem - INFO - ÕÐÆ¸Êý¾Ý·ÖÎöÏµÍ³Æô¶¯
+2025-03-23 00:24:20,449 - JobFreeSystem - INFO - ¿ªÊ¼Ö´ÐÐÊý¾Ý´¦ÀíÁ÷³Ì
+2025-03-23 00:24:20,449 - JobFreeSystem - INFO - ¿ªÊ¼ÅÀÈ¡ÕÐÆ¸Êý¾Ý
+2025-03-23 00:24:20,477 - JobCrawler - INFO - ¿ªÊ¼Ã¿ÈÕÅÀÈ¡ÈÎÎñ
+2025-03-23 00:24:20,477 - JobCrawler - INFO - ¿ªÊ¼ÅÀÈ¡ÖÇÁªÕÐÆ¸
+2025-03-23 00:24:20,477 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Java' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:24:21,637 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'È«Õ»' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:24:21,642 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Python' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:24:22,683 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'C++' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:24:23,032 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Ëã·¨' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:24:23,695 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ÈË¹¤ÖÇÄÜ' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:24:24,053 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Ç°¶Ë' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:24:24,431 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '»úÆ÷Ñ§Ï°' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:24:25,371 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ºó¶Ë' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:24:25,736 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Éî¶ÈÑ§Ï°' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:24:26,204 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'È«Õ»' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:24:27,068 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Ëã·¨' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:24:27,140 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Êý¾Ý·ÖÎö' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:24:27,710 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '´óÊý¾Ý' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:24:27,722 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ÈË¹¤ÖÇÄÜ' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:24:28,478 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ÔÆ¼ÆËã' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:24:28,942 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '»úÆ÷Ñ§Ï°' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:24:29,508 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Éî¶ÈÑ§Ï°' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:24:29,952 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ÔËÎ¬' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:24:30,448 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Êý¾Ý·ÖÎö' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:24:30,721 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '²âÊÔ' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:24:30,979 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '´óÊý¾Ý' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:24:31,562 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '¿ª·¢' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:24:32,136 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ÔÆ¼ÆËã' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:24:32,288 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '¼Ü¹¹Ê¦' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:24:32,827 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Êý¾Ý¿â' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:24:33,044 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ÔËÎ¬' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:24:33,852 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '²âÊÔ' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:24:34,277 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ÍøÂç°²È«' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:24:34,504 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '¿ª·¢' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:24:34,894 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Èí¼þ¹¤³ÌÊ¦' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:24:35,657 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '¼Ü¹¹Ê¦' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:24:36,136 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '³ÌÐòÔ±' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:24:36,929 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Êý¾Ý¿â' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:24:37,528 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '¿ª·¢¹¤³ÌÊ¦' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:24:38,014 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ÍøÂç°²È«' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:24:38,995 - JobCrawler - INFO - ´ÓÖÇÁªÕÐÆ¸»ñÈ¡ÁË 175 ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 00:24:38,995 - JobCrawler - INFO - ³É¹¦´ÓÖÇÁªÕÐÆ¸ÅÀÈ¡175ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 00:24:39,217 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Èí¼þ¹¤³ÌÊ¦' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:24:40,068 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '³ÌÐòÔ±' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:24:41,435 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '¿ª·¢¹¤³ÌÊ¦' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:24:41,473 - JobCrawler - INFO - ¿ªÊ¼ÅÀÈ¡Ç°³ÌÎÞÓÇ
+2025-03-23 00:24:42,482 - JobCrawler - INFO - ´ÓÖÇÁªÕÐÆ¸»ñÈ¡ÁË 174 ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 00:24:42,482 - JobCrawler - INFO - ³É¹¦´ÓÖÇÁªÕÐÆ¸ÅÀÈ¡174ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 00:24:44,786 - JobCrawler - INFO - ¿ªÊ¼ÅÀÈ¡Ç°³ÌÎÞÓÇ
+2025-03-23 00:25:26,125 - JobCrawler - INFO - ³É¹¦´ÓÇ°³ÌÎÞÓÇÅÀÈ¡0ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 00:25:28,146 - JobCrawler - INFO - ¿ªÊ¼ÅÀÈ¡À­¹´Íø
+2025-03-23 00:25:34,368 - JobCrawler - INFO - ³É¹¦´ÓÇ°³ÌÎÞÓÇÅÀÈ¡0ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 00:25:37,046 - JobCrawler - INFO - ¿ªÊ¼ÅÀÈ¡À­¹´Íø
+2025-03-23 00:25:41,469 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'Ç°¶Ë'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-33: ordinal not in range(256)
+2025-03-23 00:25:41,732 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'ºó¶Ë'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-33: ordinal not in range(256)
+2025-03-23 00:25:41,959 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'È«Õ»'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-33: ordinal not in range(256)
+2025-03-23 00:25:42,183 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'Ëã·¨'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-33: ordinal not in range(256)
+2025-03-23 00:25:42,385 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'ÈË¹¤ÖÇÄÜ'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-35: ordinal not in range(256)
+2025-03-23 00:25:42,581 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'»úÆ÷Ñ§Ï°'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-35: ordinal not in range(256)
+2025-03-23 00:25:42,791 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'Éî¶ÈÑ§Ï°'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-35: ordinal not in range(256)
+2025-03-23 00:25:42,990 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'Êý¾Ý·ÖÎö'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-35: ordinal not in range(256)
+2025-03-23 00:25:43,211 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'´óÊý¾Ý'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-34: ordinal not in range(256)
+2025-03-23 00:25:43,408 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'ÔÆ¼ÆËã'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-34: ordinal not in range(256)
+2025-03-23 00:25:43,602 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'ÔËÎ¬'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-33: ordinal not in range(256)
+2025-03-23 00:25:43,880 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'²âÊÔ'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-33: ordinal not in range(256)
+2025-03-23 00:25:44,224 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'¿ª·¢'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-33: ordinal not in range(256)
+2025-03-23 00:25:44,522 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'¼Ü¹¹Ê¦'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-34: ordinal not in range(256)
+2025-03-23 00:25:44,799 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'Êý¾Ý¿â'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-34: ordinal not in range(256)
+2025-03-23 00:25:45,031 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'ÍøÂç°²È«'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-35: ordinal not in range(256)
+2025-03-23 00:25:45,297 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'Èí¼þ¹¤³ÌÊ¦'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-36: ordinal not in range(256)
+2025-03-23 00:25:45,508 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'³ÌÐòÔ±'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-34: ordinal not in range(256)
+2025-03-23 00:25:45,737 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'¿ª·¢¹¤³ÌÊ¦'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-36: ordinal not in range(256)
+2025-03-23 00:25:45,737 - JobCrawler - INFO - ³É¹¦´ÓÀ­¹´ÍøÅÀÈ¡0ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 00:25:50,275 - JobCrawler - INFO - ¿ªÊ¼ÅÀÈ¡BOSSÖ±Æ¸
+2025-03-23 00:25:51,986 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'Ç°¶Ë'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-33: ordinal not in range(256)
+2025-03-23 00:25:52,205 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'ºó¶Ë'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-33: ordinal not in range(256)
+2025-03-23 00:25:52,391 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'È«Õ»'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-33: ordinal not in range(256)
+2025-03-23 00:25:52,584 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'Ëã·¨'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-33: ordinal not in range(256)
+2025-03-23 00:25:52,783 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'ÈË¹¤ÖÇÄÜ'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-35: ordinal not in range(256)
+2025-03-23 00:25:52,963 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'»úÆ÷Ñ§Ï°'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-35: ordinal not in range(256)
+2025-03-23 00:25:53,150 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'Éî¶ÈÑ§Ï°'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-35: ordinal not in range(256)
+2025-03-23 00:25:53,333 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'Êý¾Ý·ÖÎö'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-35: ordinal not in range(256)
+2025-03-23 00:25:53,516 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'´óÊý¾Ý'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-34: ordinal not in range(256)
+2025-03-23 00:25:53,699 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'ÔÆ¼ÆËã'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-34: ordinal not in range(256)
+2025-03-23 00:25:53,897 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'ÔËÎ¬'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-33: ordinal not in range(256)
+2025-03-23 00:25:54,127 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'²âÊÔ'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-33: ordinal not in range(256)
+2025-03-23 00:25:54,360 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'¿ª·¢'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-33: ordinal not in range(256)
+2025-03-23 00:25:54,720 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'¼Ü¹¹Ê¦'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-34: ordinal not in range(256)
+2025-03-23 00:25:54,946 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'Êý¾Ý¿â'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-34: ordinal not in range(256)
+2025-03-23 00:25:55,170 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'ÍøÂç°²È«'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-35: ordinal not in range(256)
+2025-03-23 00:25:55,411 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'Èí¼þ¹¤³ÌÊ¦'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-36: ordinal not in range(256)
+2025-03-23 00:25:55,610 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'³ÌÐòÔ±'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-34: ordinal not in range(256)
+2025-03-23 00:25:55,806 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'¿ª·¢¹¤³ÌÊ¦'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-36: ordinal not in range(256)
+2025-03-23 00:25:55,807 - JobCrawler - INFO - ³É¹¦´ÓÀ­¹´ÍøÅÀÈ¡0ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 00:25:59,690 - JobCrawler - INFO - ¿ªÊ¼ÅÀÈ¡BOSSÖ±Æ¸
+2025-03-23 00:27:17,704 - JobCrawler - INFO - ³É¹¦´ÓBOSSÖ±Æ¸ÅÀÈ¡0ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 00:27:22,814 - JobCrawler - INFO - ³É¹¦±£´æ175ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 00:27:22,822 - JobCrawler - INFO - Ã¿ÈÕÅÀÈ¡ÈÎÎñÍê³É
+2025-03-23 00:27:22,849 - JobFreeSystem - INFO - ¿ªÊ¼ÇåÏ´ÕÐÆ¸Êý¾Ý
+2025-03-23 00:27:22,861 - jieba - DEBUG - Building prefix dict from the default dictionary ...
+2025-03-23 00:27:22,897 - jieba - DEBUG - Loading model from cache C:\Users\30946\AppData\Local\Temp\jieba.cache
+2025-03-23 00:27:27,464 - jieba - DEBUG - Loading model cost 4.568 seconds.
+2025-03-23 00:27:27,483 - jieba - DEBUG - Prefix dict has been built successfully.
+2025-03-23 00:27:27,849 - JobFreeSystem - INFO - Êý¾ÝÇåÏ´Íê³É£¬±£´æÖÁ ./data\jobs_cleaned_20250323.csv
+2025-03-23 00:27:27,863 - JobFreeSystem - INFO - ¿ªÊ¼·ÖÎöÕÐÆ¸Êý¾Ý
+2025-03-23 00:27:29,056 - JobCrawler - INFO - ³É¹¦´ÓBOSSÖ±Æ¸ÅÀÈ¡0ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 00:27:33,576 - JobCrawler - INFO - ³É¹¦±£´æ174ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 00:27:33,577 - JobCrawler - INFO - Ã¿ÈÕÅÀÈ¡ÈÎÎñÍê³É
+2025-03-23 00:27:33,577 - JobFreeSystem - INFO - ¿ªÊ¼ÇåÏ´ÕÐÆ¸Êý¾Ý
+2025-03-23 00:27:33,578 - jieba - DEBUG - Building prefix dict from the default dictionary ...
+2025-03-23 00:27:33,579 - jieba - DEBUG - Loading model from cache C:\Users\30946\AppData\Local\Temp\jieba.cache
+2025-03-23 00:27:37,251 - jieba - DEBUG - Loading model cost 3.672 seconds.
+2025-03-23 00:27:37,263 - jieba - DEBUG - Prefix dict has been built successfully.
+2025-03-23 00:27:37,679 - JobFreeSystem - INFO - Êý¾ÝÇåÏ´Íê³É£¬±£´æÖÁ ./data\jobs_cleaned_20250323.csv
+2025-03-23 00:27:37,684 - JobFreeSystem - INFO - ¿ªÊ¼·ÖÎöÕÐÆ¸Êý¾Ý
+2025-03-23 00:27:41,420 - JobFreeSystem - INFO - ¿ªÊ¼´óÄ£ÐÍ·ÖÎö
+2025-03-23 00:27:42,574 - LLMAnalyzer - ERROR - µ÷ÓÃ´óÄ£ÐÍAPI³ö´í: HTTPSConnectionPool(host='api.example.com', port=443): Max retries exceeded with url: /v1/completions (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+2025-03-23 00:27:42,575 - LLMAnalyzer - ERROR - ´óÄ£ÐÍ·ÖÎö³ö´í: HTTPSConnectionPool(host='api.example.com', port=443): Max retries exceeded with url: /v1/completions (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+2025-03-23 00:27:42,576 - JobFreeSystem - ERROR - Êý¾Ý´¦ÀíÁ÷³ÌÖ´ÐÐ³ö´í: 'JobAnalyzer' object has no attribute 'save_results'
+2025-03-23 00:27:42,649 - JobFreeSystem - INFO - ¶¨Ê±ÈÎÎñÒÑÉèÖÃ
+2025-03-23 00:27:42,649 - JobFreeSystem - INFO - ¶¨Ê±ÈÎÎñµ÷¶ÈÆ÷ÒÑÔÚºóÌ¨Æô¶¯
+2025-03-23 00:27:42,685 - JobFreeSystem - INFO - Æô¶¯WebÓ¦ÓÃ£¬¼àÌýµØÖ·: 0.0.0.0:8050
+2025-03-23 00:27:46,447 - JobFreeSystem - INFO - ¿ªÊ¼´óÄ£ÐÍ·ÖÎö
+2025-03-23 00:27:47,531 - LLMAnalyzer - ERROR - µ÷ÓÃ´óÄ£ÐÍAPI³ö´í: HTTPSConnectionPool(host='api.example.com', port=443): Max retries exceeded with url: /v1/completions (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+2025-03-23 00:27:47,546 - LLMAnalyzer - ERROR - ´óÄ£ÐÍ·ÖÎö³ö´í: HTTPSConnectionPool(host='api.example.com', port=443): Max retries exceeded with url: /v1/completions (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+2025-03-23 00:27:47,547 - JobFreeSystem - ERROR - Êý¾Ý´¦ÀíÁ÷³ÌÖ´ÐÐ³ö´í: 'JobAnalyzer' object has no attribute 'save_results'
+2025-03-23 00:27:47,622 - JobFreeSystem - INFO - ¶¨Ê±ÈÎÎñµ÷¶ÈÆ÷ÒÑÔÚºóÌ¨Æô¶¯
+2025-03-23 00:27:47,623 - JobFreeSystem - INFO - Æô¶¯WebÓ¦ÓÃ£¬¼àÌýµØÖ·: 0.0.0.0:8050
+2025-03-23 00:27:47,639 - JobFreeSystem - INFO - ¶¨Ê±ÈÎÎñÒÑÉèÖÃ
+2025-03-23 00:34:07,525 - JobFreeSystem - INFO - ÕÐÆ¸Êý¾Ý·ÖÎöÏµÍ³Æô¶¯
+2025-03-23 00:34:07,526 - JobFreeSystem - INFO - ¿ªÊ¼Ö´ÐÐÊý¾Ý´¦ÀíÁ÷³Ì
+2025-03-23 00:34:07,528 - JobFreeSystem - INFO - ¿ªÊ¼ÅÀÈ¡ÕÐÆ¸Êý¾Ý
+2025-03-23 00:34:07,578 - JobCrawler - INFO - ¿ªÊ¼Ã¿ÈÕÅÀÈ¡ÈÎÎñ
+2025-03-23 00:34:07,579 - JobCrawler - INFO - ¿ªÊ¼ÅÀÈ¡ÖÇÁªÕÐÆ¸
+2025-03-23 00:34:07,579 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Java' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:34:08,493 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Python' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:34:09,578 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'C++' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:34:11,061 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Ç°¶Ë' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:34:12,350 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ºó¶Ë' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:34:13,490 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'È«Õ»' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:34:14,002 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Ëã·¨' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:34:14,913 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ÈË¹¤ÖÇÄÜ' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:34:16,171 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '»úÆ÷Ñ§Ï°' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:34:17,607 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Éî¶ÈÑ§Ï°' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:34:18,691 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Êý¾Ý·ÖÎö' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:34:19,713 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '´óÊý¾Ý' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:34:20,348 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ÔÆ¼ÆËã' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:34:21,618 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ÔËÎ¬' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:34:22,157 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '²âÊÔ' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:34:22,756 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '¿ª·¢' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:34:24,181 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '¼Ü¹¹Ê¦' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:34:25,152 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Êý¾Ý¿â' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:34:25,917 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ÍøÂç°²È«' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:34:26,750 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Èí¼þ¹¤³ÌÊ¦' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:34:28,039 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '³ÌÐòÔ±' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:34:29,326 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '¿ª·¢¹¤³ÌÊ¦' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:34:30,592 - JobCrawler - INFO - ´ÓÖÇÁªÕÐÆ¸»ñÈ¡ÁË 167 ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 00:34:30,592 - JobCrawler - INFO - ³É¹¦´ÓÖÇÁªÕÐÆ¸ÅÀÈ¡167ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 00:34:33,329 - JobCrawler - INFO - ¿ªÊ¼ÅÀÈ¡Ç°³ÌÎÞÓÇ
+2025-03-23 00:35:19,622 - JobCrawler - INFO - ³É¹¦´ÓÇ°³ÌÎÞÓÇÅÀÈ¡0ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 00:35:22,390 - JobCrawler - INFO - ¿ªÊ¼ÅÀÈ¡À­¹´Íø
+2025-03-23 00:35:37,045 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'Ç°¶Ë'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-33: ordinal not in range(256)
+2025-03-23 00:35:37,271 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'ºó¶Ë'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-33: ordinal not in range(256)
+2025-03-23 00:35:37,623 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'È«Õ»'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-33: ordinal not in range(256)
+2025-03-23 00:35:38,400 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'Ëã·¨'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-33: ordinal not in range(256)
+2025-03-23 00:35:38,830 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'ÈË¹¤ÖÇÄÜ'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-35: ordinal not in range(256)
+2025-03-23 00:35:39,056 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'»úÆ÷Ñ§Ï°'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-35: ordinal not in range(256)
+2025-03-23 00:35:39,263 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'Éî¶ÈÑ§Ï°'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-35: ordinal not in range(256)
+2025-03-23 00:35:39,484 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'Êý¾Ý·ÖÎö'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-35: ordinal not in range(256)
+2025-03-23 00:35:39,682 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'´óÊý¾Ý'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-34: ordinal not in range(256)
+2025-03-23 00:35:39,932 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'ÔÆ¼ÆËã'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-34: ordinal not in range(256)
+2025-03-23 00:35:40,149 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'ÔËÎ¬'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-33: ordinal not in range(256)
+2025-03-23 00:35:40,369 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'²âÊÔ'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-33: ordinal not in range(256)
+2025-03-23 00:35:40,615 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'¿ª·¢'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-33: ordinal not in range(256)
+2025-03-23 00:35:40,863 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'¼Ü¹¹Ê¦'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-34: ordinal not in range(256)
+2025-03-23 00:35:41,088 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'Êý¾Ý¿â'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-34: ordinal not in range(256)
+2025-03-23 00:35:41,387 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'ÍøÂç°²È«'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-35: ordinal not in range(256)
+2025-03-23 00:35:41,640 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'Èí¼þ¹¤³ÌÊ¦'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-36: ordinal not in range(256)
+2025-03-23 00:35:41,866 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'³ÌÐòÔ±'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-34: ordinal not in range(256)
+2025-03-23 00:35:42,066 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'¿ª·¢¹¤³ÌÊ¦'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-36: ordinal not in range(256)
+2025-03-23 00:35:42,066 - JobCrawler - INFO - ³É¹¦´ÓÀ­¹´ÍøÅÀÈ¡0ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 00:35:46,266 - JobCrawler - INFO - ¿ªÊ¼ÅÀÈ¡BOSSÖ±Æ¸
+2025-03-23 00:37:17,172 - JobCrawler - INFO - ³É¹¦´ÓBOSSÖ±Æ¸ÅÀÈ¡0ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 00:37:19,305 - JobCrawler - INFO - ³É¹¦±£´æ167ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 00:37:19,305 - JobCrawler - INFO - Ã¿ÈÕÅÀÈ¡ÈÎÎñÍê³É
+2025-03-23 00:37:19,305 - JobFreeSystem - INFO - ¿ªÊ¼ÇåÏ´ÕÐÆ¸Êý¾Ý
+2025-03-23 00:37:19,306 - jieba - DEBUG - Building prefix dict from the default dictionary ...
+2025-03-23 00:37:19,306 - jieba - DEBUG - Loading model from cache C:\Users\30946\AppData\Local\Temp\jieba.cache
+2025-03-23 00:37:19,888 - jieba - DEBUG - Loading model cost 0.582 seconds.
+2025-03-23 00:37:19,889 - jieba - DEBUG - Prefix dict has been built successfully.
+2025-03-23 00:37:19,928 - JobFreeSystem - INFO - Êý¾ÝÇåÏ´Íê³É£¬±£´æÖÁ ./data\jobs_cleaned_20250323.csv
+2025-03-23 00:37:19,928 - JobFreeSystem - INFO - ¿ªÊ¼·ÖÎöÕÐÆ¸Êý¾Ý
+2025-03-23 00:37:21,548 - JobFreeSystem - INFO - ¿ªÊ¼´óÄ£ÐÍ·ÖÎö
+2025-03-23 00:37:23,000 - LLMAnalyzer - ERROR - µ÷ÓÃ´óÄ£ÐÍAPI³ö´í: HTTPSConnectionPool(host='api.example.com', port=443): Max retries exceeded with url: /v1/completions (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+2025-03-23 00:37:23,001 - LLMAnalyzer - ERROR - ´óÄ£ÐÍ·ÖÎö³ö´í: HTTPSConnectionPool(host='api.example.com', port=443): Max retries exceeded with url: /v1/completions (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+2025-03-23 00:37:24,187 - JobFreeSystem - INFO - ´óÄ£ÐÍ·ÖÎöÍê³É²¢±£´æ½á¹û
+2025-03-23 00:37:24,188 - JobFreeSystem - INFO - Êý¾Ý´¦ÀíÁ÷³ÌÖ´ÐÐÍê³É
+2025-03-23 00:37:24,190 - JobFreeSystem - INFO - ¶¨Ê±ÈÎÎñÒÑÉèÖÃ
+2025-03-23 00:37:24,190 - JobFreeSystem - INFO - ¶¨Ê±ÈÎÎñµ÷¶ÈÆ÷ÒÑÔÚºóÌ¨Æô¶¯
+2025-03-23 00:37:24,191 - JobFreeSystem - INFO - Æô¶¯WebÓ¦ÓÃ£¬¼àÌýµØÖ·: 0.0.0.0:8050
+2025-03-23 00:38:34,250 - JobFreeSystem - INFO - ÕÐÆ¸Êý¾Ý·ÖÎöÏµÍ³Æô¶¯
+2025-03-23 00:38:34,251 - JobFreeSystem - INFO - ¿ªÊ¼Ö´ÐÐÊý¾Ý´¦ÀíÁ÷³Ì
+2025-03-23 00:38:34,251 - JobFreeSystem - INFO - ¿ªÊ¼ÅÀÈ¡ÕÐÆ¸Êý¾Ý
+2025-03-23 00:38:34,295 - JobCrawler - INFO - ¿ªÊ¼Ã¿ÈÕÅÀÈ¡ÈÎÎñ
+2025-03-23 00:38:34,296 - JobCrawler - INFO - ¿ªÊ¼ÅÀÈ¡ÖÇÁªÕÐÆ¸
+2025-03-23 00:38:34,296 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Java' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:38:35,613 - JobFreeSystem - INFO - ÕÐÆ¸Êý¾Ý·ÖÎöÏµÍ³Æô¶¯
+2025-03-23 00:38:35,615 - JobFreeSystem - INFO - ¿ªÊ¼Ö´ÐÐÊý¾Ý´¦ÀíÁ÷³Ì
+2025-03-23 00:38:35,615 - JobFreeSystem - INFO - ¿ªÊ¼ÅÀÈ¡ÕÐÆ¸Êý¾Ý
+2025-03-23 00:38:35,648 - JobCrawler - INFO - ¿ªÊ¼Ã¿ÈÕÅÀÈ¡ÈÎÎñ
+2025-03-23 00:38:35,648 - JobCrawler - INFO - ¿ªÊ¼ÅÀÈ¡ÖÇÁªÕÐÆ¸
+2025-03-23 00:38:35,648 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Java' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:38:35,707 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Python' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:38:36,480 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'C++' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:38:36,988 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Python' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:38:37,012 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Ç°¶Ë' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:38:37,501 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'C++' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:38:38,322 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ºó¶Ë' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:38:38,698 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Ç°¶Ë' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:38:39,379 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ºó¶Ë' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:38:39,573 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'È«Õ»' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:38:40,589 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Ëã·¨' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:38:40,833 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'È«Õ»' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:38:41,697 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Ëã·¨' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:38:41,895 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ÈË¹¤ÖÇÄÜ' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:38:42,703 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ÈË¹¤ÖÇÄÜ' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:38:43,387 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '»úÆ÷Ñ§Ï°' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:38:43,410 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '»úÆ÷Ñ§Ï°' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:38:43,983 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Éî¶ÈÑ§Ï°' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:38:44,794 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Êý¾Ý·ÖÎö' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:38:44,862 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Éî¶ÈÑ§Ï°' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:38:45,411 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Êý¾Ý·ÖÎö' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:38:46,133 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '´óÊý¾Ý' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:38:46,888 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '´óÊý¾Ý' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:38:47,300 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ÔÆ¼ÆËã' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:38:47,709 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ÔÆ¼ÆËã' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:38:48,425 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ÔËÎ¬' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:38:48,453 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ÔËÎ¬' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:38:49,292 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '²âÊÔ' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:38:49,781 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '²âÊÔ' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:38:49,947 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '¿ª·¢' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:38:50,930 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '¼Ü¹¹Ê¦' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:38:51,251 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '¿ª·¢' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:38:52,181 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Êý¾Ý¿â' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:38:52,265 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '¼Ü¹¹Ê¦' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:38:53,038 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Êý¾Ý¿â' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:38:53,503 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ÍøÂç°²È«' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:38:53,633 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ÍøÂç°²È«' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:38:54,355 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Èí¼þ¹¤³ÌÊ¦' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:38:54,914 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Èí¼þ¹¤³ÌÊ¦' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:38:55,171 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '³ÌÐòÔ±' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:38:55,849 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '³ÌÐòÔ±' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:38:56,130 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '¿ª·¢¹¤³ÌÊ¦' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:38:56,807 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '¿ª·¢¹¤³ÌÊ¦' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:38:57,417 - JobCrawler - INFO - ´ÓÖÇÁªÕÐÆ¸»ñÈ¡ÁË 174 ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 00:38:57,418 - JobCrawler - INFO - ³É¹¦´ÓÖÇÁªÕÐÆ¸ÅÀÈ¡174ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 00:38:57,668 - JobCrawler - INFO - ´ÓÖÇÁªÕÐÆ¸»ñÈ¡ÁË 159 ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 00:38:57,668 - JobCrawler - INFO - ³É¹¦´ÓÖÇÁªÕÐÆ¸ÅÀÈ¡159ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 00:38:59,744 - JobCrawler - INFO - ¿ªÊ¼ÅÀÈ¡Ç°³ÌÎÞÓÇ
+2025-03-23 00:39:00,044 - JobCrawler - INFO - ¿ªÊ¼ÅÀÈ¡Ç°³ÌÎÞÓÇ
+2025-03-23 00:39:45,175 - JobCrawler - INFO - ³É¹¦´ÓÇ°³ÌÎÞÓÇÅÀÈ¡0ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 00:39:47,703 - JobCrawler - INFO - ¿ªÊ¼ÅÀÈ¡À­¹´Íø
+2025-03-23 00:39:48,550 - JobCrawler - INFO - ³É¹¦´ÓÇ°³ÌÎÞÓÇÅÀÈ¡0ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 00:39:53,403 - JobCrawler - INFO - ¿ªÊ¼ÅÀÈ¡À­¹´Íø
+2025-03-23 00:40:02,863 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'Ç°¶Ë'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-33: ordinal not in range(256)
+2025-03-23 00:40:03,163 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'ºó¶Ë'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-33: ordinal not in range(256)
+2025-03-23 00:40:03,671 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'È«Õ»'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-33: ordinal not in range(256)
+2025-03-23 00:40:03,929 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'Ëã·¨'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-33: ordinal not in range(256)
+2025-03-23 00:40:04,127 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'ÈË¹¤ÖÇÄÜ'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-35: ordinal not in range(256)
+2025-03-23 00:40:04,352 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'»úÆ÷Ñ§Ï°'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-35: ordinal not in range(256)
+2025-03-23 00:40:04,559 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'Éî¶ÈÑ§Ï°'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-35: ordinal not in range(256)
+2025-03-23 00:40:04,807 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'Êý¾Ý·ÖÎö'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-35: ordinal not in range(256)
+2025-03-23 00:40:05,049 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'´óÊý¾Ý'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-34: ordinal not in range(256)
+2025-03-23 00:40:05,363 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'ÔÆ¼ÆËã'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-34: ordinal not in range(256)
+2025-03-23 00:40:05,635 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'ÔËÎ¬'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-33: ordinal not in range(256)
+2025-03-23 00:40:05,870 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'²âÊÔ'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-33: ordinal not in range(256)
+2025-03-23 00:40:06,126 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'¿ª·¢'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-33: ordinal not in range(256)
+2025-03-23 00:40:06,367 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'¼Ü¹¹Ê¦'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-34: ordinal not in range(256)
+2025-03-23 00:40:06,599 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'Êý¾Ý¿â'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-34: ordinal not in range(256)
+2025-03-23 00:40:06,695 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'Ç°¶Ë'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-33: ordinal not in range(256)
+2025-03-23 00:40:06,859 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'ÍøÂç°²È«'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-35: ordinal not in range(256)
+2025-03-23 00:40:06,916 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'ºó¶Ë'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-33: ordinal not in range(256)
+2025-03-23 00:40:07,103 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'Èí¼þ¹¤³ÌÊ¦'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-36: ordinal not in range(256)
+2025-03-23 00:40:07,126 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'È«Õ»'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-33: ordinal not in range(256)
+2025-03-23 00:40:07,373 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'³ÌÐòÔ±'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-34: ordinal not in range(256)
+2025-03-23 00:40:07,387 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'Ëã·¨'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-33: ordinal not in range(256)
+2025-03-23 00:40:07,592 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'¿ª·¢¹¤³ÌÊ¦'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-36: ordinal not in range(256)
+2025-03-23 00:40:07,593 - JobCrawler - INFO - ³É¹¦´ÓÀ­¹´ÍøÅÀÈ¡0ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 00:40:07,607 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'ÈË¹¤ÖÇÄÜ'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-35: ordinal not in range(256)
+2025-03-23 00:40:07,863 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'»úÆ÷Ñ§Ï°'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-35: ordinal not in range(256)
+2025-03-23 00:40:08,108 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'Éî¶ÈÑ§Ï°'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-35: ordinal not in range(256)
+2025-03-23 00:40:08,451 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'Êý¾Ý·ÖÎö'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-35: ordinal not in range(256)
+2025-03-23 00:40:08,758 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'´óÊý¾Ý'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-34: ordinal not in range(256)
+2025-03-23 00:40:09,020 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'ÔÆ¼ÆËã'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-34: ordinal not in range(256)
+2025-03-23 00:40:09,251 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'ÔËÎ¬'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-33: ordinal not in range(256)
+2025-03-23 00:40:09,570 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'²âÊÔ'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-33: ordinal not in range(256)
+2025-03-23 00:40:09,792 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'¿ª·¢'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-33: ordinal not in range(256)
+2025-03-23 00:40:10,000 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'¼Ü¹¹Ê¦'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-34: ordinal not in range(256)
+2025-03-23 00:40:10,200 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'Êý¾Ý¿â'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-34: ordinal not in range(256)
+2025-03-23 00:40:10,404 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'ÍøÂç°²È«'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-35: ordinal not in range(256)
+2025-03-23 00:40:10,611 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'Èí¼þ¹¤³ÌÊ¦'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-36: ordinal not in range(256)
+2025-03-23 00:40:10,812 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'³ÌÐòÔ±'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-34: ordinal not in range(256)
+2025-03-23 00:40:11,063 - JobCrawler - ERROR - ÅÀÈ¡À­¹´Íø¹Ø¼ü´Ê'¿ª·¢¹¤³ÌÊ¦'Ê±³ö´í: 'latin-1' codec can't encode characters in position 32-36: ordinal not in range(256)
+2025-03-23 00:40:11,065 - JobCrawler - INFO - ³É¹¦´ÓÀ­¹´ÍøÅÀÈ¡0ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 00:40:11,117 - JobCrawler - INFO - ¿ªÊ¼ÅÀÈ¡BOSSÖ±Æ¸
+2025-03-23 00:40:15,090 - JobCrawler - INFO - ¿ªÊ¼ÅÀÈ¡BOSSÖ±Æ¸
+2025-03-23 00:41:42,006 - JobCrawler - INFO - ³É¹¦´ÓBOSSÖ±Æ¸ÅÀÈ¡0ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 00:41:44,551 - JobCrawler - INFO - ³É¹¦±£´æ174ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 00:41:44,551 - JobCrawler - INFO - Ã¿ÈÕÅÀÈ¡ÈÎÎñÍê³É
+2025-03-23 00:41:44,552 - JobFreeSystem - INFO - ¿ªÊ¼ÇåÏ´ÕÐÆ¸Êý¾Ý
+2025-03-23 00:41:44,552 - jieba - DEBUG - Building prefix dict from the default dictionary ...
+2025-03-23 00:41:44,552 - jieba - DEBUG - Loading model from cache C:\Users\30946\AppData\Local\Temp\jieba.cache
+2025-03-23 00:41:45,141 - jieba - DEBUG - Loading model cost 0.590 seconds.
+2025-03-23 00:41:45,141 - jieba - DEBUG - Prefix dict has been built successfully.
+2025-03-23 00:41:45,188 - JobFreeSystem - INFO - Êý¾ÝÇåÏ´Íê³É£¬±£´æÖÁ ./data\jobs_cleaned_20250323.csv
+2025-03-23 00:41:45,189 - JobFreeSystem - INFO - ¿ªÊ¼·ÖÎöÕÐÆ¸Êý¾Ý
+2025-03-23 00:41:46,817 - JobCrawler - INFO - ³É¹¦´ÓBOSSÖ±Æ¸ÅÀÈ¡0ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 00:41:47,087 - JobFreeSystem - INFO - ¿ªÊ¼´óÄ£ÐÍ·ÖÎö
+2025-03-23 00:41:48,290 - LLMAnalyzer - ERROR - µ÷ÓÃ´óÄ£ÐÍAPI³ö´í: HTTPSConnectionPool(host='api.example.com', port=443): Max retries exceeded with url: /v1/completions (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+2025-03-23 00:41:48,290 - LLMAnalyzer - ERROR - ´óÄ£ÐÍ·ÖÎö³ö´í: HTTPSConnectionPool(host='api.example.com', port=443): Max retries exceeded with url: /v1/completions (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+2025-03-23 00:41:49,325 - JobCrawler - INFO - ³É¹¦±£´æ159ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 00:41:49,326 - JobCrawler - INFO - Ã¿ÈÕÅÀÈ¡ÈÎÎñÍê³É
+2025-03-23 00:41:49,326 - JobFreeSystem - INFO - ¿ªÊ¼ÇåÏ´ÕÐÆ¸Êý¾Ý
+2025-03-23 00:41:49,327 - jieba - DEBUG - Building prefix dict from the default dictionary ...
+2025-03-23 00:41:49,328 - jieba - DEBUG - Loading model from cache C:\Users\30946\AppData\Local\Temp\jieba.cache
+2025-03-23 00:41:49,899 - jieba - DEBUG - Loading model cost 0.571 seconds.
+2025-03-23 00:41:49,900 - jieba - DEBUG - Prefix dict has been built successfully.
+2025-03-23 00:41:49,931 - JobFreeSystem - INFO - Êý¾ÝÇåÏ´Íê³É£¬±£´æÖÁ ./data\jobs_cleaned_20250323.csv
+2025-03-23 00:41:49,932 - JobFreeSystem - INFO - ¿ªÊ¼·ÖÎöÕÐÆ¸Êý¾Ý
+2025-03-23 00:41:50,061 - JobFreeSystem - INFO - ´óÄ£ÐÍ·ÖÎöÍê³É²¢±£´æ½á¹û
+2025-03-23 00:41:50,061 - JobFreeSystem - INFO - Êý¾Ý´¦ÀíÁ÷³ÌÖ´ÐÐÍê³É
+2025-03-23 00:41:50,065 - JobFreeSystem - INFO - ¶¨Ê±ÈÎÎñÒÑÉèÖÃ
+2025-03-23 00:41:50,066 - JobFreeSystem - INFO - ¶¨Ê±ÈÎÎñµ÷¶ÈÆ÷ÒÑÔÚºóÌ¨Æô¶¯
+2025-03-23 00:41:50,066 - JobFreeSystem - INFO - Æô¶¯WebÓ¦ÓÃ£¬¼àÌýµØÖ·: 0.0.0.0:8050
+2025-03-23 00:41:50,066 - dash.dash - INFO - Dash is running on http://0.0.0.0:8050/
+
+2025-03-23 00:41:50,960 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8050
+ * Running on http://192.168.10.181:8050
+2025-03-23 00:41:50,960 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-23 00:41:51,472 - JobFreeSystem - INFO - ¿ªÊ¼´óÄ£ÐÍ·ÖÎö
+2025-03-23 00:41:52,665 - LLMAnalyzer - ERROR - µ÷ÓÃ´óÄ£ÐÍAPI³ö´í: HTTPSConnectionPool(host='api.example.com', port=443): Max retries exceeded with url: /v1/completions (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+2025-03-23 00:41:52,666 - LLMAnalyzer - ERROR - ´óÄ£ÐÍ·ÖÎö³ö´í: HTTPSConnectionPool(host='api.example.com', port=443): Max retries exceeded with url: /v1/completions (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+2025-03-23 00:41:53,883 - JobFreeSystem - INFO - ´óÄ£ÐÍ·ÖÎöÍê³É²¢±£´æ½á¹û
+2025-03-23 00:41:53,884 - JobFreeSystem - INFO - Êý¾Ý´¦ÀíÁ÷³ÌÖ´ÐÐÍê³É
+2025-03-23 00:41:53,885 - JobFreeSystem - INFO - ¶¨Ê±ÈÎÎñÒÑÉèÖÃ
+2025-03-23 00:41:53,885 - JobFreeSystem - INFO - ¶¨Ê±ÈÎÎñµ÷¶ÈÆ÷ÒÑÔÚºóÌ¨Æô¶¯
+2025-03-23 00:41:53,885 - JobFreeSystem - INFO - Æô¶¯WebÓ¦ÓÃ£¬¼àÌýµØÖ·: 0.0.0.0:8050
+2025-03-23 00:41:53,886 - dash.dash - INFO - Dash is running on http://0.0.0.0:8050/
+
+2025-03-23 00:41:53,901 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8050
+ * Running on http://192.168.10.181:8050
+2025-03-23 00:41:53,901 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-23 00:42:02,065 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:42:02] "GET / HTTP/1.1" 200 -
+2025-03-23 00:42:02,120 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:42:02] "GET /_dash-component-suites/dash/deps/polyfill@7.v3_0_0m1742659414.12.1.min.js HTTP/1.1" 200 -
+2025-03-23 00:42:02,124 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:42:02] "GET /_dash-component-suites/dash/deps/react@18.v3_0_0m1742659414.3.1.min.js HTTP/1.1" 200 -
+2025-03-23 00:42:02,126 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:42:02] "GET /_dash-component-suites/dash/deps/react-dom@18.v3_0_0m1742659414.3.1.min.js HTTP/1.1" 200 -
+2025-03-23 00:42:02,132 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:42:02] "GET /_dash-component-suites/dash/deps/prop-types@15.v3_0_0m1742659414.8.1.min.js HTTP/1.1" 200 -
+2025-03-23 00:42:02,164 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:42:02] "GET /_dash-component-suites/dash/dash-renderer/build/dash_renderer.v3_0_0m1742659414.min.js HTTP/1.1" 200 -
+2025-03-23 00:42:02,169 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:42:02] "GET /_dash-component-suites/dash_bootstrap_components/_components/dash_bootstrap_components.v2_0_0m1742659523.min.js HTTP/1.1" 200 -
+2025-03-23 00:42:02,171 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:42:02] "GET /_dash-component-suites/dash/dcc/dash_core_components-shared.v3_0_3m1742659414.js HTTP/1.1" 200 -
+2025-03-23 00:42:02,172 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:42:02] "GET /_dash-component-suites/dash/dcc/dash_core_components.v3_0_3m1742659414.js HTTP/1.1" 200 -
+2025-03-23 00:42:02,186 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:42:02] "GET /_dash-component-suites/dash/html/dash_html_components.v3_0_1m1742659414.min.js HTTP/1.1" 200 -
+2025-03-23 00:42:02,195 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:42:02] "GET /_dash-component-suites/dash/dash_table/bundle.v6_0_1m1742659414.js HTTP/1.1" 200 -
+2025-03-23 00:42:07,467 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:42:07] "GET /_dash-layout HTTP/1.1" 200 -
+2025-03-23 00:42:07,476 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:42:07] "GET /_dash-dependencies HTTP/1.1" 200 -
+2025-03-23 00:42:07,545 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:42:07] "GET /_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1" 200 -
+2025-03-23 00:42:07,554 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:42:07] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:42:07,562 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:42:07] "GET /_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1" 200 -
+2025-03-23 00:42:07,580 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:42:07] "GET /_favicon.ico?v=3.0.0 HTTP/1.1" 200 -
+2025-03-23 00:42:07,603 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:42:07] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:42:07,860 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:42:07] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:42:07,900 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:42:07] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:42:07,912 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:42:07] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:42:07,926 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:42:07] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:42:07,949 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:42:07] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:42:07,950 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:42:07] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:42:07,951 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:42:07] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:42:08,019 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:42:08] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:42:08,869 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:42:08] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:42:09,515 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:42:09] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:42:09,644 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:42:09] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:42:09,673 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:42:09] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:42:09,710 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:42:09] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:42:09,728 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:42:09] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:42:09,785 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:42:09] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:42:09,817 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:42:09] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:42:09,822 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:42:09] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:42:09,847 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 00:42:09] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 00:47:47,174 - JobFreeSystem - INFO - ÕÐÆ¸Êý¾Ý·ÖÎöÏµÍ³Æô¶¯
+2025-03-23 00:47:47,175 - JobFreeSystem - INFO - ¿ªÊ¼Ö´ÐÐÊý¾Ý´¦ÀíÁ÷³Ì
+2025-03-23 00:47:47,176 - JobFreeSystem - INFO - ¿ªÊ¼ÅÀÈ¡ÕÐÆ¸Êý¾Ý
+2025-03-23 00:47:47,211 - JobCrawler - INFO - ¿ªÊ¼Ã¿ÈÕÅÀÈ¡ÈÎÎñ
+2025-03-23 00:47:47,211 - JobCrawler - INFO - ¿ªÊ¼ÅÀÈ¡ÖÇÁªÕÐÆ¸
+2025-03-23 00:47:47,212 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Java' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:47:48,342 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Python' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:47:49,107 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'C++' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:47:50,421 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Ç°¶Ë' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:47:51,767 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ºó¶Ë' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:47:52,525 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'È«Õ»' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:47:53,515 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Ëã·¨' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:47:54,862 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ÈË¹¤ÖÇÄÜ' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:47:55,731 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '»úÆ÷Ñ§Ï°' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:47:56,313 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Éî¶ÈÑ§Ï°' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:47:57,207 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Êý¾Ý·ÖÎö' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:47:57,814 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '´óÊý¾Ý' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:47:58,966 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ÔÆ¼ÆËã' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:47:59,930 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ÔËÎ¬' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:48:00,571 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '²âÊÔ' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:48:01,112 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '¿ª·¢' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:48:02,014 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '¼Ü¹¹Ê¦' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:48:03,151 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Êý¾Ý¿â' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:48:04,020 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ÍøÂç°²È«' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:48:04,624 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Èí¼þ¹¤³ÌÊ¦' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:48:05,930 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '³ÌÐòÔ±' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:48:07,346 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '¿ª·¢¹¤³ÌÊ¦' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 00:48:08,156 - JobCrawler - INFO - ´ÓÖÇÁªÕÐÆ¸»ñÈ¡ÁË 157 ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 00:48:08,156 - JobCrawler - INFO - ³É¹¦´ÓÖÇÁªÕÐÆ¸ÅÀÈ¡157ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 00:48:12,569 - JobCrawler - INFO - ¿ªÊ¼ÅÀÈ¡Ç°³ÌÎÞÓÇ
+2025-03-23 00:49:02,142 - JobCrawler - INFO - ³É¹¦´ÓÇ°³ÌÎÞÓÇÅÀÈ¡0ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 00:49:06,927 - JobCrawler - INFO - ¿ªÊ¼ÅÀÈ¡À­¹´Íø
+2025-03-23 00:50:39,603 - JobCrawler - INFO - ³É¹¦´ÓÀ­¹´ÍøÅÀÈ¡0ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 00:50:44,462 - JobCrawler - INFO - ¿ªÊ¼ÅÀÈ¡BOSSÖ±Æ¸
+2025-03-23 00:52:13,612 - JobCrawler - INFO - ³É¹¦´ÓBOSSÖ±Æ¸ÅÀÈ¡0ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 00:52:15,940 - JobCrawler - INFO - ³É¹¦±£´æ157ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 00:52:15,941 - JobCrawler - INFO - Ã¿ÈÕÅÀÈ¡ÈÎÎñÍê³É
+2025-03-23 00:52:15,941 - JobFreeSystem - INFO - ¿ªÊ¼ÇåÏ´ÕÐÆ¸Êý¾Ý
+2025-03-23 00:52:15,941 - jieba - DEBUG - Building prefix dict from the default dictionary ...
+2025-03-23 00:52:15,941 - jieba - DEBUG - Loading model from cache C:\Users\30946\AppData\Local\Temp\jieba.cache
+2025-03-23 00:52:16,578 - jieba - DEBUG - Loading model cost 0.637 seconds.
+2025-03-23 00:52:16,578 - jieba - DEBUG - Prefix dict has been built successfully.
+2025-03-23 00:52:16,625 - JobFreeSystem - INFO - Êý¾ÝÇåÏ´Íê³É£¬±£´æÖÁ ./data\jobs_cleaned_20250323.csv
+2025-03-23 00:52:16,625 - JobFreeSystem - INFO - ¿ªÊ¼·ÖÎöÕÐÆ¸Êý¾Ý
+2025-03-23 00:52:18,431 - JobFreeSystem - INFO - ¿ªÊ¼´óÄ£ÐÍ·ÖÎö
+2025-03-23 00:52:19,684 - LLMAnalyzer - ERROR - µ÷ÓÃ´óÄ£ÐÍAPI³ö´í: HTTPSConnectionPool(host='api.example.com', port=443): Max retries exceeded with url: /v1/completions (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+2025-03-23 00:52:19,684 - LLMAnalyzer - ERROR - ´óÄ£ÐÍ·ÖÎö³ö´í: HTTPSConnectionPool(host='api.example.com', port=443): Max retries exceeded with url: /v1/completions (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+2025-03-23 00:52:20,935 - JobFreeSystem - INFO - ´óÄ£ÐÍ·ÖÎöÍê³É²¢±£´æ½á¹û
+2025-03-23 00:52:20,936 - JobFreeSystem - INFO - Êý¾Ý´¦ÀíÁ÷³ÌÖ´ÐÐÍê³É
+2025-03-23 00:52:20,937 - JobFreeSystem - INFO - ¶¨Ê±ÈÎÎñÒÑÉèÖÃ
+2025-03-23 00:52:20,937 - JobFreeSystem - INFO - ¶¨Ê±ÈÎÎñµ÷¶ÈÆ÷ÒÑÔÚºóÌ¨Æô¶¯
+2025-03-23 00:52:20,938 - JobFreeSystem - INFO - Æô¶¯WebÓ¦ÓÃ£¬¼àÌýµØÖ·: 0.0.0.0:8050
+2025-03-23 00:52:20,939 - dash.dash - INFO - Dash is running on http://0.0.0.0:8050/
+
+2025-03-23 00:52:20,953 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8050
+ * Running on http://192.168.10.181:8050
+2025-03-23 00:52:20,954 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-23 01:11:26,931 - JobvncSystem - INFO - ÕÐÆ¸Êý¾Ý·ÖÎöÏµÍ³Æô¶¯
+2025-03-23 01:11:26,932 - JobvncSystem - INFO - ¶¨Ê±ÈÎÎñÒÑÉèÖÃ
+2025-03-23 01:11:26,933 - JobvncSystem - INFO - ¶¨Ê±ÈÎÎñµ÷¶ÈÆ÷ÒÑÔÚºóÌ¨Æô¶¯
+2025-03-23 01:11:26,933 - JobvncSystem - INFO - Æô¶¯WebÓ¦ÓÃ£¬¼àÌýµØÖ·: 0.0.0.0:8050
+2025-03-23 01:11:26,934 - dash.dash - INFO - Dash is running on http://0.0.0.0:8050/
+
+2025-03-23 01:11:26,954 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8050
+ * Running on http://192.168.10.181:8050
+2025-03-23 01:11:26,954 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-23 01:11:27,919 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 01:11:27] "GET / HTTP/1.1" 200 -
+2025-03-23 01:11:27,967 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 01:11:27] "GET /_dash-component-suites/dash/deps/polyfill@7.v3_0_0m1742659414.12.1.min.js HTTP/1.1" 200 -
+2025-03-23 01:11:28,158 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 01:11:28] "GET /_dash-component-suites/dash/deps/react@18.v3_0_0m1742659414.3.1.min.js HTTP/1.1" 200 -
+2025-03-23 01:11:28,284 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 01:11:28] "GET /_dash-component-suites/dash/deps/prop-types@15.v3_0_0m1742659414.8.1.min.js HTTP/1.1" 200 -
+2025-03-23 01:11:28,285 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 01:11:28] "GET /_dash-component-suites/dash/deps/react-dom@18.v3_0_0m1742659414.3.1.min.js HTTP/1.1" 200 -
+2025-03-23 01:11:28,286 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 01:11:28] "GET /_dash-component-suites/dash_bootstrap_components/_components/dash_bootstrap_components.v2_0_0m1742659523.min.js HTTP/1.1" 200 -
+2025-03-23 01:11:28,289 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 01:11:28] "GET /_dash-component-suites/dash/dash-renderer/build/dash_renderer.v3_0_0m1742659414.min.js HTTP/1.1" 200 -
+2025-03-23 01:11:28,292 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 01:11:28] "GET /_dash-component-suites/dash/dcc/dash_core_components.v3_0_3m1742659414.js HTTP/1.1" 200 -
+2025-03-23 01:11:28,469 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 01:11:28] "GET /_dash-component-suites/dash/dcc/dash_core_components-shared.v3_0_3m1742659414.js HTTP/1.1" 200 -
+2025-03-23 01:11:28,596 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 01:11:28] "GET /_dash-component-suites/dash/html/dash_html_components.v3_0_1m1742659414.min.js HTTP/1.1" 200 -
+2025-03-23 01:11:28,596 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 01:11:28] "GET /_dash-component-suites/dash/dash_table/bundle.v6_0_1m1742659414.js HTTP/1.1" 200 -
+2025-03-23 01:11:33,962 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 01:11:33] "GET /_dash-layout HTTP/1.1" 200 -
+2025-03-23 01:11:33,966 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 01:11:33] "GET /_dash-dependencies HTTP/1.1" 200 -
+2025-03-23 01:11:34,022 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 01:11:34] "GET /_favicon.ico?v=3.0.0 HTTP/1.1" 200 -
+2025-03-23 01:11:34,236 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 01:11:34] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 01:11:34,306 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 01:11:34] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 01:11:34,443 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 01:11:34] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 01:11:34,447 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 01:11:34] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 01:11:34,599 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 01:11:34] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 01:11:34,646 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 01:11:34] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 01:11:34,652 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 01:11:34] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 01:11:34,697 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 01:11:34] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 01:11:34,768 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 01:11:34] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 01:11:34,771 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 01:11:34] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 01:11:34,924 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 01:11:34] "GET /_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1" 200 -
+2025-03-23 01:11:34,991 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 01:11:34] "GET /_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1" 200 -
+2025-03-23 01:11:35,310 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 01:11:35] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 01:11:35,816 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 01:11:35] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 01:11:35,849 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 01:11:35] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 01:11:35,864 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 01:11:35] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 01:11:35,886 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 01:11:35] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 01:11:35,916 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 01:11:35] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 01:11:35,917 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 01:11:35] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 01:11:36,190 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 01:11:36] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 01:11:36,216 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 01:11:36] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 01:11:36,230 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 01:11:36] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 01:11:38,868 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 01:11:38] "GET / HTTP/1.1" 200 -
+2025-03-23 01:11:43,826 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 01:11:43] "GET /_dash-layout HTTP/1.1" 200 -
+2025-03-23 01:11:43,826 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 01:11:43] "GET /_dash-dependencies HTTP/1.1" 200 -
+2025-03-23 01:11:44,162 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 01:11:44] "GET /_favicon.ico?v=3.0.0 HTTP/1.1" 200 -
+2025-03-23 01:11:44,165 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 01:11:44] "[36mGET /_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1[0m" 304 -
+2025-03-23 01:11:44,168 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 01:11:44] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 01:11:44,180 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 01:11:44] "[36mGET /_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1[0m" 304 -
+2025-03-23 01:11:44,431 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 01:11:44] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 01:11:44,502 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 01:11:44] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 01:11:44,512 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 01:11:44] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 01:11:44,524 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 01:11:44] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 01:11:44,548 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 01:11:44] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 01:11:44,565 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 01:11:44] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 01:11:44,748 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 01:11:44] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 01:11:44,842 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 01:11:44] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 01:11:44,844 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 01:11:44] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 01:11:45,173 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 01:11:45] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 01:11:45,438 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 01:11:45] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 01:11:45,522 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 01:11:45] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 01:11:45,539 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 01:11:45] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 01:11:45,544 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 01:11:45] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 01:11:45,557 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 01:11:45] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 01:11:45,571 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 01:11:45] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 01:11:45,756 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 01:11:45] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 01:11:45,860 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 01:11:45] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 01:11:45,871 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 01:11:45] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 01:12:52,359 - JobvncSystem - INFO - ÕÐÆ¸Êý¾Ý·ÖÎöÏµÍ³Æô¶¯
+2025-03-23 01:12:52,360 - JobvncSystem - INFO - ¿ªÊ¼Ö´ÐÐÊý¾Ý´¦ÀíÁ÷³Ì
+2025-03-23 01:12:52,361 - JobvncSystem - INFO - ¿ªÊ¼ÅÀÈ¡ÕÐÆ¸Êý¾Ý
+2025-03-23 01:12:52,389 - JobCrawler - INFO - ¿ªÊ¼Ã¿ÈÕÅÀÈ¡ÈÎÎñ
+2025-03-23 01:12:52,389 - JobCrawler - INFO - ¿ªÊ¼ÅÀÈ¡ÖÇÁªÕÐÆ¸
+2025-03-23 01:12:52,389 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Java' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 01:12:53,154 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Python' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 01:12:54,398 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'C++' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 01:12:55,279 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Ç°¶Ë' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 01:12:56,463 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ºó¶Ë' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 01:12:57,017 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'È«Õ»' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 01:12:57,821 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Ëã·¨' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 01:12:59,222 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ÈË¹¤ÖÇÄÜ' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 01:12:59,880 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '»úÆ÷Ñ§Ï°' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 01:13:01,181 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Éî¶ÈÑ§Ï°' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 01:13:02,065 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Êý¾Ý·ÖÎö' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 01:13:03,101 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '´óÊý¾Ý' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 01:13:04,111 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ÔÆ¼ÆËã' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 01:13:05,112 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ÔËÎ¬' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 01:13:06,608 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '²âÊÔ' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 01:13:07,556 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '¿ª·¢' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 01:13:08,438 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '¼Ü¹¹Ê¦' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 01:13:09,680 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Êý¾Ý¿â' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:33:36,679 - JobvncSystem - INFO - ÕÐÆ¸Êý¾Ý·ÖÎöÏµÍ³Æô¶¯
+2025-03-23 09:33:36,686 - JobvncSystem - INFO - ¶¨Ê±ÈÎÎñÒÑÉèÖÃ
+2025-03-23 09:33:36,686 - JobvncSystem - INFO - ¶¨Ê±ÈÎÎñµ÷¶ÈÆ÷ÒÑÔÚºóÌ¨Æô¶¯
+2025-03-23 09:33:36,687 - JobvncSystem - INFO - Æô¶¯WebÓ¦ÓÃ£¬¼àÌýµØÖ·: 0.0.0.0:8050
+2025-03-23 09:33:36,688 - dash.dash - INFO - Dash is running on http://0.0.0.0:8050/
+
+2025-03-23 09:33:37,489 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8050
+ * Running on http://192.168.10.181:8050
+2025-03-23 09:33:37,670 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-23 09:33:58,852 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:33:58] "GET / HTTP/1.1" 200 -
+2025-03-23 09:34:06,053 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:34:06] "GET /_dash-layout HTTP/1.1" 200 -
+2025-03-23 09:34:06,056 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:34:06] "GET /_dash-dependencies HTTP/1.1" 200 -
+2025-03-23 09:34:06,309 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:34:06] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:34:06,414 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:34:06] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:34:06,627 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:34:06] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:34:06,635 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:34:06] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:34:06,695 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:34:06] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:34:06,774 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:34:06] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:34:06,784 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:34:06] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:34:06,843 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:34:06] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:34:06,954 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:34:06] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:34:06,971 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:34:06] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:34:07,014 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:34:07] "[36mGET /_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1[0m" 304 -
+2025-03-23 09:34:07,122 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:34:07] "[36mGET /_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1[0m" 304 -
+2025-03-23 09:34:07,428 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:34:07] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:34:07,978 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:34:07] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:34:08,030 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:34:08] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:34:08,051 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:34:08] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:34:08,069 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:34:08] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:34:08,096 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:34:08] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:34:08,126 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:34:08] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:34:08,386 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:34:08] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:34:08,391 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:34:08] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:34:08,407 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:34:08] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:38:10,533 - JobCrawler - INFO - ¿ªÊ¼Ã¿ÈÕÅÀÈ¡ÈÎÎñ
+2025-03-23 09:38:10,569 - JobCrawler - INFO - ¿ªÊ¼ÅÀÈ¡ÖÇÁªÕÐÆ¸
+2025-03-23 09:38:10,640 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Java' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:11,730 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Python' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:12,578 - JobCrawler - INFO - ¿ªÊ¼Ã¿ÈÕÅÀÈ¡ÈÎÎñ
+2025-03-23 09:38:12,728 - JobCrawler - INFO - ¿ªÊ¼ÅÀÈ¡ÖÇÁªÕÐÆ¸
+2025-03-23 09:38:12,820 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Java' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:13,008 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'C++' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:13,034 - JobCrawler - INFO - ¿ªÊ¼Ã¿ÈÕÅÀÈ¡ÈÎÎñ
+2025-03-23 09:38:13,197 - JobCrawler - INFO - ¿ªÊ¼Ã¿ÈÕÅÀÈ¡ÈÎÎñ
+2025-03-23 09:38:13,228 - JobCrawler - INFO - ¿ªÊ¼ÅÀÈ¡ÖÇÁªÕÐÆ¸
+2025-03-23 09:38:13,229 - JobCrawler - INFO - ¿ªÊ¼ÅÀÈ¡ÖÇÁªÕÐÆ¸
+2025-03-23 09:38:13,230 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Java' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:13,230 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Java' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:13,367 - LLMAnalyzer - ERROR - µ÷ÓÃ´óÄ£ÐÍAPI³ö´í: HTTPSConnectionPool(host='api.example.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000017EE9FD29F0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2025-03-23 09:38:13,467 - LLMAnalyzer - ERROR - ´óÄ£ÐÍ·ÖÎö³ö´í: HTTPSConnectionPool(host='api.example.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000017EE9FD29F0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2025-03-23 09:38:13,511 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:38:13] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:38:13,676 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Python' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:13,788 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Python' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:14,034 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Ç°¶Ë' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:14,572 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Python' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:14,777 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'C++' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:15,091 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'C++' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:15,459 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'C++' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:15,467 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ºó¶Ë' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:15,526 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Ç°¶Ë' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:15,950 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Ç°¶Ë' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:16,271 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'È«Õ»' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:16,325 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ºó¶Ë' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:16,407 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Ç°¶Ë' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:17,130 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ºó¶Ë' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:17,141 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Ëã·¨' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:17,309 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'È«Õ»' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:17,491 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ºó¶Ë' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:17,803 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ÈË¹¤ÖÇÄÜ' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:18,033 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Ëã·¨' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:18,356 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '»úÆ÷Ñ§Ï°' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:18,387 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'È«Õ»' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:18,556 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'È«Õ»' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:18,686 - LLMAnalyzer - ERROR - µ÷ÓÃ´óÄ£ÐÍAPI³ö´í: HTTPSConnectionPool(host='api.example.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000017EEA284B30>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2025-03-23 09:38:18,698 - LLMAnalyzer - ERROR - ´óÄ£ÐÍ·ÖÎö³ö´í: HTTPSConnectionPool(host='api.example.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000017EEA284B30>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2025-03-23 09:38:18,713 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ÈË¹¤ÖÇÄÜ' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:18,743 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:38:18] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:38:19,005 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Éî¶ÈÑ§Ï°' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:19,193 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Ëã·¨' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:19,196 - LLMAnalyzer - ERROR - µ÷ÓÃ´óÄ£ÐÍAPI³ö´í: HTTPSConnectionPool(host='api.example.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000017EEA20E480>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2025-03-23 09:38:19,206 - LLMAnalyzer - ERROR - ´óÄ£ÐÍ·ÖÎö³ö´í: HTTPSConnectionPool(host='api.example.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000017EEA20E480>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2025-03-23 09:38:19,232 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:38:19] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:38:19,391 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Ëã·¨' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:19,436 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '»úÆ÷Ñ§Ï°' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:19,814 - JobCrawler - INFO - ¿ªÊ¼Ã¿ÈÕÅÀÈ¡ÈÎÎñ
+2025-03-23 09:38:19,891 - JobCrawler - INFO - ¿ªÊ¼ÅÀÈ¡ÖÇÁªÕÐÆ¸
+2025-03-23 09:38:19,942 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Java' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:20,046 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Éî¶ÈÑ§Ï°' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:20,060 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ÈË¹¤ÖÇÄÜ' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:20,097 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Êý¾Ý·ÖÎö' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:20,355 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ÈË¹¤ÖÇÄÜ' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:20,585 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '»úÆ÷Ñ§Ï°' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:20,943 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '»úÆ÷Ñ§Ï°' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:21,219 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Êý¾Ý·ÖÎö' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:21,318 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Python' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:21,509 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '´óÊý¾Ý' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:21,825 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Éî¶ÈÑ§Ï°' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:22,127 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Éî¶ÈÑ§Ï°' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:22,526 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Êý¾Ý·ÖÎö' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:22,578 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'C++' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:22,618 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ÔÆ¼ÆËã' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:22,618 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '´óÊý¾Ý' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:23,089 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:38:23] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:38:23,663 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '´óÊý¾Ý' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:23,673 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Êý¾Ý·ÖÎö' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:23,701 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Ç°¶Ë' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:23,776 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ÔÆ¼ÆËã' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:23,941 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ÔËÎ¬' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:24,727 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '²âÊÔ' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:24,799 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ºó¶Ë' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:24,842 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '´óÊý¾Ý' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:25,166 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ÔÆ¼ÆËã' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:25,280 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ÔËÎ¬' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:25,455 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '¿ª·¢' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:25,757 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ÔÆ¼ÆËã' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:25,757 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ÔËÎ¬' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:26,168 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'È«Õ»' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:26,434 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '²âÊÔ' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:26,477 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ÔËÎ¬' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:26,588 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '²âÊÔ' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:26,797 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Ëã·¨' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:26,830 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '¼Ü¹¹Ê¦' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:27,334 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '¿ª·¢' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:27,387 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ÈË¹¤ÖÇÄÜ' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:27,650 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '²âÊÔ' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:27,722 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '¿ª·¢' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:27,756 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Êý¾Ý¿â' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:27,923 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:38:27] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:38:28,265 - JobCrawler - INFO - ¿ªÊ¼Ã¿ÈÕÅÀÈ¡ÈÎÎñ
+2025-03-23 09:38:28,267 - JobCrawler - INFO - ¿ªÊ¼ÅÀÈ¡ÖÇÁªÕÐÆ¸
+2025-03-23 09:38:28,268 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Java' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:28,332 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '¼Ü¹¹Ê¦' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:28,354 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ÍøÂç°²È«' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:28,803 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '¿ª·¢' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:28,872 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '»úÆ÷Ñ§Ï°' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:28,944 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Python' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:28,969 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '¼Ü¹¹Ê¦' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:29,357 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Èí¼þ¹¤³ÌÊ¦' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:29,416 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '¼Ü¹¹Ê¦' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:29,447 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Éî¶ÈÑ§Ï°' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:29,565 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'C++' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:29,675 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Êý¾Ý¿â' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:29,743 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Êý¾Ý¿â' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:30,148 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '³ÌÐòÔ±' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:30,547 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ÍøÂç°²È«' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:30,609 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ÍøÂç°²È«' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:30,654 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Êý¾Ý¿â' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:30,699 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Ç°¶Ë' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:30,710 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Êý¾Ý·ÖÎö' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:31,106 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Èí¼þ¹¤³ÌÊ¦' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:31,131 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '¿ª·¢¹¤³ÌÊ¦' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:31,446 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '´óÊý¾Ý' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:31,784 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ÍøÂç°²È«' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:32,068 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Èí¼þ¹¤³ÌÊ¦' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:32,201 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ºó¶Ë' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:32,284 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '³ÌÐòÔ±' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:32,307 - JobCrawler - INFO - ´ÓÖÇÁªÕÐÆ¸»ñÈ¡ÁË 177 ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 09:38:32,308 - JobCrawler - INFO - ³É¹¦´ÓÖÇÁªÕÐÆ¸ÅÀÈ¡177ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 09:38:32,808 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '¿ª·¢¹¤³ÌÊ¦' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:32,908 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ÔÆ¼ÆËã' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:32,978 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Èí¼þ¹¤³ÌÊ¦' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:33,138 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '³ÌÐòÔ±' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:33,289 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'È«Õ»' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:33,770 - JobCrawler - INFO - ´ÓÖÇÁªÕÐÆ¸»ñÈ¡ÁË 154 ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 09:38:33,770 - JobCrawler - INFO - ³É¹¦´ÓÖÇÁªÕÐÆ¸ÅÀÈ¡154ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 09:38:33,805 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ÔËÎ¬' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:33,880 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '¿ª·¢¹¤³ÌÊ¦' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:34,199 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '³ÌÐòÔ±' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:34,231 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Ëã·¨' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:34,369 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '²âÊÔ' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:34,432 - JobCrawler - INFO - ´ÓÖÇÁªÕÐÆ¸»ñÈ¡ÁË 170 ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 09:38:34,432 - JobCrawler - INFO - ³É¹¦´ÓÖÇÁªÕÐÆ¸ÅÀÈ¡170ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 09:38:34,771 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ÈË¹¤ÖÇÄÜ' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:35,132 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '¿ª·¢¹¤³ÌÊ¦' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:35,214 - JobCrawler - INFO - ¿ªÊ¼ÅÀÈ¡Ç°³ÌÎÞÓÇ
+2025-03-23 09:38:35,281 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '¿ª·¢' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:36,162 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '»úÆ÷Ñ§Ï°' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:36,603 - JobCrawler - INFO - ´ÓÖÇÁªÕÐÆ¸»ñÈ¡ÁË 163 ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 09:38:36,604 - JobCrawler - INFO - ³É¹¦´ÓÖÇÁªÕÐÆ¸ÅÀÈ¡163ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 09:38:36,642 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '¼Ü¹¹Ê¦' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:37,175 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Éî¶ÈÑ§Ï°' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:37,564 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Êý¾Ý¿â' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:38,158 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Êý¾Ý·ÖÎö' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:38,258 - JobCrawler - INFO - ¿ªÊ¼ÅÀÈ¡Ç°³ÌÎÞÓÇ
+2025-03-23 09:38:38,457 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ÍøÂç°²È«' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:38,783 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '´óÊý¾Ý' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:39,040 - JobCrawler - INFO - ¿ªÊ¼ÅÀÈ¡Ç°³ÌÎÞÓÇ
+2025-03-23 09:38:39,488 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Èí¼þ¹¤³ÌÊ¦' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:39,495 - JobCrawler - INFO - ¿ªÊ¼ÅÀÈ¡Ç°³ÌÎÞÓÇ
+2025-03-23 09:38:39,504 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ÔÆ¼ÆËã' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:40,596 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '³ÌÐòÔ±' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:40,834 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ÔËÎ¬' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:41,322 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '¿ª·¢¹¤³ÌÊ¦' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:41,845 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '²âÊÔ' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:42,704 - JobCrawler - INFO - ´ÓÖÇÁªÕÐÆ¸»ñÈ¡ÁË 177 ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 09:38:42,707 - JobCrawler - INFO - ³É¹¦´ÓÖÇÁªÕÐÆ¸ÅÀÈ¡177ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 09:38:43,291 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '¿ª·¢' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:43,900 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '¼Ü¹¹Ê¦' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:44,906 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Êý¾Ý¿â' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:46,204 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ÍøÂç°²È«' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:46,859 - JobCrawler - INFO - ¿ªÊ¼ÅÀÈ¡Ç°³ÌÎÞÓÇ
+2025-03-23 09:38:47,537 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Èí¼þ¹¤³ÌÊ¦' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:48,231 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '³ÌÐòÔ±' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:48,940 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '¿ª·¢¹¤³ÌÊ¦' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 09:38:49,932 - JobCrawler - INFO - ´ÓÖÇÁªÕÐÆ¸»ñÈ¡ÁË 157 ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 09:38:49,933 - JobCrawler - INFO - ³É¹¦´ÓÖÇÁªÕÐÆ¸ÅÀÈ¡157ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 09:38:52,819 - JobCrawler - INFO - ¿ªÊ¼ÅÀÈ¡Ç°³ÌÎÞÓÇ
+2025-03-23 09:39:24,052 - JobCrawler - INFO - ³É¹¦´ÓÇ°³ÌÎÞÓÇÅÀÈ¡0ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 09:39:24,913 - JobCrawler - INFO - ³É¹¦´ÓÇ°³ÌÎÞÓÇÅÀÈ¡0ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 09:39:27,339 - JobCrawler - INFO - ¿ªÊ¼ÅÀÈ¡À­¹´Íø
+2025-03-23 09:39:28,976 - JobCrawler - INFO - ³É¹¦´ÓÇ°³ÌÎÞÓÇÅÀÈ¡0ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 09:39:29,083 - JobCrawler - INFO - ¿ªÊ¼ÅÀÈ¡À­¹´Íø
+2025-03-23 09:39:31,223 - JobCrawler - INFO - ³É¹¦´ÓÇ°³ÌÎÞÓÇÅÀÈ¡0ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 09:39:31,652 - JobCrawler - INFO - ¿ªÊ¼ÅÀÈ¡À­¹´Íø
+2025-03-23 09:39:32,529 - JobCrawler - INFO - ³É¹¦´ÓÇ°³ÌÎÞÓÇÅÀÈ¡0ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 09:39:33,496 - JobCrawler - INFO - ¿ªÊ¼ÅÀÈ¡À­¹´Íø
+2025-03-23 09:39:34,816 - JobCrawler - INFO - ¿ªÊ¼ÅÀÈ¡À­¹´Íø
+2025-03-23 09:39:38,966 - JobCrawler - INFO - ³É¹¦´ÓÇ°³ÌÎÞÓÇÅÀÈ¡0ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 09:39:42,818 - JobCrawler - INFO - ¿ªÊ¼ÅÀÈ¡À­¹´Íø
+2025-03-23 09:41:00,888 - JobCrawler - INFO - ³É¹¦´ÓÀ­¹´ÍøÅÀÈ¡0ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 09:41:02,980 - JobCrawler - INFO - ³É¹¦´ÓÀ­¹´ÍøÅÀÈ¡0ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 09:41:03,584 - JobCrawler - INFO - ¿ªÊ¼ÅÀÈ¡BOSSÖ±Æ¸
+2025-03-23 09:41:04,836 - JobCrawler - INFO - ³É¹¦´ÓÀ­¹´ÍøÅÀÈ¡0ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 09:41:05,488 - JobCrawler - INFO - ³É¹¦´ÓÀ­¹´ÍøÅÀÈ¡0ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 09:41:06,851 - JobCrawler - INFO - ¿ªÊ¼ÅÀÈ¡BOSSÖ±Æ¸
+2025-03-23 09:41:06,890 - JobCrawler - INFO - ¿ªÊ¼ÅÀÈ¡BOSSÖ±Æ¸
+2025-03-23 09:41:07,499 - JobCrawler - INFO - ³É¹¦´ÓÀ­¹´ÍøÅÀÈ¡0ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 09:41:10,000 - JobCrawler - INFO - ¿ªÊ¼ÅÀÈ¡BOSSÖ±Æ¸
+2025-03-23 09:41:10,309 - JobCrawler - INFO - ¿ªÊ¼ÅÀÈ¡BOSSÖ±Æ¸
+2025-03-23 09:41:16,561 - JobCrawler - INFO - ³É¹¦´ÓÀ­¹´ÍøÅÀÈ¡0ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 09:41:20,485 - JobCrawler - INFO - ¿ªÊ¼ÅÀÈ¡BOSSÖ±Æ¸
+2025-03-23 09:42:33,324 - JobCrawler - INFO - ³É¹¦´ÓBOSSÖ±Æ¸ÅÀÈ¡0ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 09:42:34,783 - JobCrawler - INFO - ³É¹¦´ÓBOSSÖ±Æ¸ÅÀÈ¡0ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 09:42:38,125 - JobCrawler - INFO - ³É¹¦±£´æ177ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 09:42:38,126 - JobCrawler - INFO - Ã¿ÈÕÅÀÈ¡ÈÎÎñÍê³É
+2025-03-23 09:42:38,126 - jieba - DEBUG - Building prefix dict from the default dictionary ...
+2025-03-23 09:42:38,128 - jieba - DEBUG - Loading model from cache C:\Users\30946\AppData\Local\Temp\jieba.cache
+2025-03-23 09:42:38,187 - JobCrawler - INFO - ³É¹¦´ÓBOSSÖ±Æ¸ÅÀÈ¡0ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 09:42:38,349 - JobCrawler - INFO - ³É¹¦±£´æ177ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 09:42:38,352 - JobCrawler - INFO - Ã¿ÈÕÅÀÈ¡ÈÎÎñÍê³É
+2025-03-23 09:42:38,511 - JobCrawler - INFO - ³É¹¦´ÓBOSSÖ±Æ¸ÅÀÈ¡0ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 09:42:39,888 - jieba - DEBUG - Loading model cost 1.760 seconds.
+2025-03-23 09:42:39,894 - jieba - DEBUG - Prefix dict has been built successfully.
+2025-03-23 09:42:40,242 - JobCrawler - INFO - ³É¹¦´ÓBOSSÖ±Æ¸ÅÀÈ¡0ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 09:42:42,239 - JobCrawler - INFO - ³É¹¦±£´æ163ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 09:42:42,246 - JobCrawler - INFO - Ã¿ÈÕÅÀÈ¡ÈÎÎñÍê³É
+2025-03-23 09:42:43,188 - JobCrawler - INFO - ³É¹¦±£´æ154ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 09:42:43,190 - JobCrawler - INFO - Ã¿ÈÕÅÀÈ¡ÈÎÎñÍê³É
+2025-03-23 09:42:44,476 - JobCrawler - INFO - ³É¹¦±£´æ170ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 09:42:44,488 - JobCrawler - INFO - Ã¿ÈÕÅÀÈ¡ÈÎÎñÍê³É
+2025-03-23 09:42:48,869 - JobCrawler - INFO - ³É¹¦´ÓBOSSÖ±Æ¸ÅÀÈ¡0ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 09:42:49,363 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:42:49] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:42:50,141 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:42:50] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:42:50,828 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:42:50] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:42:51,294 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:42:51] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:42:52,247 - JobCrawler - INFO - ³É¹¦±£´æ157ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 09:42:52,265 - JobCrawler - INFO - Ã¿ÈÕÅÀÈ¡ÈÎÎñÍê³É
+2025-03-23 09:42:52,745 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:42:52] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:42:56,031 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:42:56] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:43:24,316 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:43:24] "GET / HTTP/1.1" 200 -
+2025-03-23 09:43:46,109 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:43:46] "GET /_dash-layout HTTP/1.1" 200 -
+2025-03-23 09:43:46,111 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:43:46] "GET /_dash-dependencies HTTP/1.1" 200 -
+2025-03-23 09:43:46,175 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:43:46] "GET /_favicon.ico?v=3.0.0 HTTP/1.1" 200 -
+2025-03-23 09:43:46,360 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:43:46] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:43:46,439 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:43:46] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:43:46,451 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:43:46] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:43:46,462 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:43:46] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:43:46,721 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:43:46] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:43:46,723 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:43:46] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:43:46,731 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:43:46] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:43:46,767 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:43:46] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:43:46,769 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:43:46] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:43:46,772 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:43:46] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:43:47,047 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:43:47] "[36mGET /_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1[0m" 304 -
+2025-03-23 09:43:47,059 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:43:47] "[36mGET /_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1[0m" 304 -
+2025-03-23 09:43:47,455 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:43:47] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:43:47,718 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:43:47] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:43:47,877 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:43:47] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:43:47,904 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:43:47] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:43:47,915 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:43:47] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:43:47,915 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:43:47] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:43:47,926 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:43:47] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:43:48,033 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:43:48] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:43:48,234 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:43:48] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:43:48,235 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:43:48] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:58:20,772 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:20] "GET / HTTP/1.1" 200 -
+2025-03-23 09:58:21,080 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:21] "GET /_dash-layout HTTP/1.1" 200 -
+2025-03-23 09:58:21,082 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:21] "GET /_dash-dependencies HTTP/1.1" 200 -
+2025-03-23 09:58:21,411 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:21] "GET /_favicon.ico?v=3.0.0 HTTP/1.1" 200 -
+2025-03-23 09:58:21,435 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:21] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:58:21,437 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:21] "[36mGET /_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1[0m" 304 -
+2025-03-23 09:58:21,449 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:21] "[36mGET /_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1[0m" 304 -
+2025-03-23 09:58:21,676 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:21] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:58:21,862 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:21] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:58:21,925 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:21] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:58:21,944 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:21] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:58:22,032 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:22] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:58:22,062 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:22] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:58:22,103 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:22] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:58:22,240 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:22] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:58:22,273 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:22] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:58:22,515 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:22] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:58:22,905 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:22] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:58:22,940 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:22] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:58:22,980 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:22] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:58:23,003 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:23] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:58:23,054 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:23] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:58:23,059 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:23] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:58:23,266 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:23] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:58:23,289 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:23] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:58:23,334 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:23] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:58:32,927 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:32] "GET / HTTP/1.1" 200 -
+2025-03-23 09:58:33,063 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:33] "GET /_dash-layout HTTP/1.1" 200 -
+2025-03-23 09:58:33,187 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:33] "GET /_dash-dependencies HTTP/1.1" 200 -
+2025-03-23 09:58:33,404 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:33] "GET /_favicon.ico?v=3.0.0 HTTP/1.1" 200 -
+2025-03-23 09:58:33,528 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:33] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:58:33,551 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:33] "[36mGET /_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1[0m" 304 -
+2025-03-23 09:58:33,600 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:33] "[36mGET /_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1[0m" 304 -
+2025-03-23 09:58:33,937 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:33] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:58:34,025 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:34] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:58:34,073 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:34] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:58:34,125 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:34] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:58:34,150 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:34] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:58:34,167 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:34] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:58:34,356 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:34] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:58:34,361 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:34] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:58:34,467 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:34] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:58:34,623 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:34] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:58:34,949 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:34] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:58:34,973 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:34] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:58:34,991 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:34] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:58:35,002 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:35] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:58:35,021 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:35] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:58:35,032 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:35] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:58:35,312 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:35] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:58:35,322 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:35] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:58:35,341 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:35] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:58:42,954 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:42] "GET / HTTP/1.1" 200 -
+2025-03-23 09:58:43,136 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:43] "GET /_dash-layout HTTP/1.1" 200 -
+2025-03-23 09:58:43,209 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:43] "GET /_dash-dependencies HTTP/1.1" 200 -
+2025-03-23 09:58:43,464 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:43] "GET /_favicon.ico?v=3.0.0 HTTP/1.1" 200 -
+2025-03-23 09:58:43,566 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:43] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:58:43,580 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:43] "[36mGET /_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1[0m" 304 -
+2025-03-23 09:58:43,594 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:43] "[36mGET /_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1[0m" 304 -
+2025-03-23 09:58:43,922 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:43] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:58:43,954 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:43] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:58:43,965 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:43] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:58:43,981 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:43] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:58:44,002 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:44] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:58:44,020 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:44] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:58:44,312 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:44] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:58:44,319 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:44] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:58:44,326 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:44] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:58:44,570 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:44] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:58:44,932 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:44] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:58:44,995 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:44] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:58:45,030 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:45] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:58:45,094 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:45] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:58:45,116 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:45] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:58:45,134 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:45] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:58:45,298 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:45] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:58:45,357 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:45] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:58:45,406 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:58:45] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:59:06,287 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:59:06] "GET / HTTP/1.1" 200 -
+2025-03-23 09:59:06,476 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:59:06] "GET /_dash-layout HTTP/1.1" 200 -
+2025-03-23 09:59:06,495 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:59:06] "GET /_dash-dependencies HTTP/1.1" 200 -
+2025-03-23 09:59:06,805 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:59:06] "GET /_favicon.ico?v=3.0.0 HTTP/1.1" 200 -
+2025-03-23 09:59:06,839 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:59:06] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:59:06,846 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:59:06] "[36mGET /_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1[0m" 304 -
+2025-03-23 09:59:06,871 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:59:06] "[36mGET /_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1[0m" 304 -
+2025-03-23 09:59:07,189 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:59:07] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:59:07,214 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:59:07] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:59:07,228 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:59:07] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:59:07,241 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:59:07] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:59:07,258 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:59:07] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:59:07,272 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:59:07] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:59:07,523 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:59:07] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:59:07,577 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:59:07] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:59:07,583 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:59:07] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:59:07,853 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:59:07] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:59:08,225 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:59:08] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:59:08,302 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:59:08] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:59:08,364 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:59:08] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:59:08,407 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:59:08] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:59:08,471 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:59:08] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:59:08,478 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:59:08] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:59:08,689 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:59:08] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:59:08,696 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:59:08] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:59:08,744 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:59:08] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:59:27,603 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:59:27] "GET / HTTP/1.1" 200 -
+2025-03-23 09:59:27,737 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:59:27] "GET /_dash-layout HTTP/1.1" 200 -
+2025-03-23 09:59:27,854 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:59:27] "GET /_dash-dependencies HTTP/1.1" 200 -
+2025-03-23 09:59:28,076 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:59:28] "GET /_favicon.ico?v=3.0.0 HTTP/1.1" 200 -
+2025-03-23 09:59:28,221 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:59:28] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:59:28,234 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:59:28] "[36mGET /_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1[0m" 304 -
+2025-03-23 09:59:28,274 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:59:28] "[36mGET /_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1[0m" 304 -
+2025-03-23 09:59:28,592 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:59:28] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:59:28,610 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:59:28] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:59:28,633 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:59:28] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:59:28,661 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:59:28] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:59:28,683 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:59:28] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:59:28,711 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:59:28] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:59:28,967 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:59:28] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:59:28,971 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:59:28] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:59:28,995 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:59:28] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:59:29,237 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:59:29] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:59:29,646 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:59:29] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:59:29,664 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:59:29] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:59:29,679 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:59:29] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:59:29,693 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:59:29] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:59:29,712 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:59:29] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:59:29,721 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:59:29] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:59:30,008 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:59:30] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:59:30,011 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:59:30] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:59:30,014 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:59:30] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 09:59:34,031 - LLMAnalyzer - ERROR - µ÷ÓÃ´óÄ£ÐÍAPI³ö´í: HTTPSConnectionPool(host='api.example.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000017EF1076D50>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2025-03-23 09:59:34,049 - LLMAnalyzer - ERROR - ´óÄ£ÐÍ·ÖÎö³ö´í: HTTPSConnectionPool(host='api.example.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000017EF1076D50>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2025-03-23 09:59:34,213 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 09:59:34] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:00:09,454 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:00:09] "GET / HTTP/1.1" 200 -
+2025-03-23 10:00:09,604 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:00:09] "GET /_dash-layout HTTP/1.1" 200 -
+2025-03-23 10:00:09,681 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:00:09] "GET /_dash-dependencies HTTP/1.1" 200 -
+2025-03-23 10:00:09,943 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:00:09] "GET /_favicon.ico?v=3.0.0 HTTP/1.1" 200 -
+2025-03-23 10:00:10,038 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:00:10] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:00:10,041 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:00:10] "[36mGET /_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1[0m" 304 -
+2025-03-23 10:00:10,055 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:00:10] "[36mGET /_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1[0m" 304 -
+2025-03-23 10:00:10,374 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:00:10] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:00:10,391 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:00:10] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:00:10,406 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:00:10] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:00:10,424 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:00:10] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:00:10,439 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:00:10] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:00:10,459 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:00:10] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:00:10,696 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:00:10] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:00:10,710 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:00:10] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:00:10,719 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:00:10] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:00:11,056 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:00:11] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:00:11,309 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:00:11] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:00:11,421 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:00:11] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:00:11,449 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:00:11] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:00:11,484 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:00:11] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:00:11,525 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:00:11] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:00:11,544 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:00:11] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:00:11,656 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:00:11] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:00:11,779 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:00:11] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:00:11,806 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:00:11] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:01:01,146 - JobvncSystem - INFO - ÕÐÆ¸Êý¾Ý·ÖÎöÏµÍ³Æô¶¯
+2025-03-23 10:01:01,147 - JobvncSystem - INFO - ¶¨Ê±ÈÎÎñÒÑÉèÖÃ
+2025-03-23 10:01:01,147 - JobvncSystem - INFO - ¶¨Ê±ÈÎÎñµ÷¶ÈÆ÷ÒÑÔÚºóÌ¨Æô¶¯
+2025-03-23 10:01:01,147 - JobvncSystem - INFO - Æô¶¯WebÓ¦ÓÃ£¬¼àÌýµØÖ·: 0.0.0.0:8050
+2025-03-23 10:01:01,149 - dash.dash - INFO - Dash is running on http://0.0.0.0:8050/
+
+2025-03-23 10:01:03,365 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8050
+ * Running on http://192.168.10.181:8050
+2025-03-23 10:01:03,368 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-23 10:01:04,653 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:01:04] "GET / HTTP/1.1" 200 -
+2025-03-23 10:01:04,945 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:01:04] "GET /_dash-layout HTTP/1.1" 200 -
+2025-03-23 10:01:04,945 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:01:04] "GET /_dash-dependencies HTTP/1.1" 200 -
+2025-03-23 10:01:05,333 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:01:05] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:01:05,337 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:01:05] "[36mGET /_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1[0m" 304 -
+2025-03-23 10:01:05,349 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:01:05] "[36mGET /_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1[0m" 304 -
+2025-03-23 10:01:05,579 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:01:05] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:01:05,773 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:01:05] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:01:05,776 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:01:05] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:01:05,782 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:01:05] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:01:05,789 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:01:05] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:01:05,803 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:01:05] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:01:05,891 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:01:05] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:01:06,082 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:01:06] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:01:06,086 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:01:06] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:01:06,396 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:01:06] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:01:06,725 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:01:06] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:01:06,734 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:01:06] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:01:06,741 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:01:06] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:01:06,750 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:01:06] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:01:06,766 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:01:06] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:01:06,777 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:01:06] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:01:07,050 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:01:07] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:01:07,055 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:01:07] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:01:07,059 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:01:07] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:14:54,374 - JobCrawler - INFO - ¿ªÊ¼Ã¿ÈÕÅÀÈ¡ÈÎÎñ
+2025-03-23 10:14:54,394 - JobCrawler - INFO - ¿ªÊ¼ÅÀÈ¡ÖÇÁªÕÐÆ¸
+2025-03-23 10:14:54,400 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Java' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 10:14:55,569 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Python' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 10:14:56,430 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'C++' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 10:14:57,929 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Ç°¶Ë' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 10:14:59,219 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ºó¶Ë' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 10:15:00,511 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'È«Õ»' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 10:15:01,843 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Ëã·¨' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 10:15:02,638 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ÈË¹¤ÖÇÄÜ' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 10:15:03,568 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '»úÆ÷Ñ§Ï°' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 10:15:04,457 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Éî¶ÈÑ§Ï°' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 10:15:05,926 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Êý¾Ý·ÖÎö' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 10:15:06,792 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '´óÊý¾Ý' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 10:15:07,882 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ÔÆ¼ÆËã' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 10:15:08,768 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ÔËÎ¬' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 10:15:10,008 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '²âÊÔ' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 10:15:10,628 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '¿ª·¢' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 10:15:11,348 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '¼Ü¹¹Ê¦' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 10:15:12,523 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Êý¾Ý¿â' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 10:15:13,327 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ÍøÂç°²È«' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 10:15:14,450 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Èí¼þ¹¤³ÌÊ¦' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 10:15:15,039 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '³ÌÐòÔ±' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 10:15:15,754 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '¿ª·¢¹¤³ÌÊ¦' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 10:15:16,601 - JobCrawler - INFO - ´ÓÖÇÁªÕÐÆ¸»ñÈ¡ÁË 147 ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 10:15:16,610 - JobCrawler - INFO - ³É¹¦´ÓÖÇÁªÕÐÆ¸ÅÀÈ¡147ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 10:15:20,245 - JobCrawler - INFO - ¿ªÊ¼ÅÀÈ¡Ç°³ÌÎÞÓÇ
+2025-03-23 10:16:12,955 - JobCrawler - INFO - ³É¹¦´ÓÇ°³ÌÎÞÓÇÅÀÈ¡0ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 10:16:16,858 - JobCrawler - INFO - ¿ªÊ¼ÅÀÈ¡À­¹´Íø
+2025-03-23 10:18:00,717 - JobCrawler - INFO - ³É¹¦´ÓÀ­¹´ÍøÅÀÈ¡0ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 10:18:05,022 - JobCrawler - INFO - ¿ªÊ¼ÅÀÈ¡BOSSÖ±Æ¸
+2025-03-23 10:19:44,890 - JobCrawler - INFO - ³É¹¦´ÓBOSSÖ±Æ¸ÅÀÈ¡0ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 10:19:47,804 - JobCrawler - INFO - ³É¹¦±£´æ147ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 10:19:47,805 - JobCrawler - INFO - Ã¿ÈÕÅÀÈ¡ÈÎÎñÍê³É
+2025-03-23 10:19:47,809 - jieba - DEBUG - Building prefix dict from the default dictionary ...
+2025-03-23 10:19:47,812 - jieba - DEBUG - Loading model from cache C:\Users\30946\AppData\Local\Temp\jieba.cache
+2025-03-23 10:19:48,992 - jieba - DEBUG - Loading model cost 1.182 seconds.
+2025-03-23 10:19:48,993 - jieba - DEBUG - Prefix dict has been built successfully.
+2025-03-23 10:19:56,338 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:19:56] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:20:01,085 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:20:01] "GET / HTTP/1.1" 200 -
+2025-03-23 10:20:01,338 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:20:01] "GET /_dash-dependencies HTTP/1.1" 200 -
+2025-03-23 10:20:01,341 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:20:01] "GET /_dash-layout HTTP/1.1" 200 -
+2025-03-23 10:20:01,710 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:20:01] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:20:01,711 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:20:01] "GET /_favicon.ico?v=3.0.0 HTTP/1.1" 200 -
+2025-03-23 10:20:01,713 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:20:01] "[36mGET /_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1[0m" 304 -
+2025-03-23 10:20:01,729 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:20:01] "[36mGET /_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1[0m" 304 -
+2025-03-23 10:20:01,974 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:20:01] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:20:02,087 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:20:02] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:20:02,115 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:20:02] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:20:02,131 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:20:02] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:20:02,137 - app - ERROR - Exception on /_dash-update-component [POST]
+Traceback (most recent call last):
+  File "C:\Users\30946\anaconda3\Lib\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\30946\anaconda3\Lib\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\30946\anaconda3\Lib\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\30946\anaconda3\Lib\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\30946\anaconda3\Lib\site-packages\dash\dash.py", line 1405, in dispatch
+    ctx.run(
+  File "C:\Users\30946\anaconda3\Lib\site-packages\dash\_callback.py", line 529, in add_context
+    raise err
+  File "C:\Users\30946\anaconda3\Lib\site-packages\dash\_callback.py", line 518, in add_context
+    output_value = _invoke_callback(func, *func_args, **func_kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\30946\anaconda3\Lib\site-packages\dash\_callback.py", line 47, in _invoke_callback
+    return func(*args, **kwargs)  # %% callback invoked %%
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\ai¿ª·¢\ÐÅÏ¢¹¤³ÌÑ§Ôº´óÆÁÄ»Õ¹Ê¾\app.py", line 459, in update_skill_salary_chart
+    sizeref=2.*max(counts)/(40.**2),
+               ^^^^^^^^^^^
+ValueError: max() iterable argument is empty
+2025-03-23 10:20:02,156 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:20:02] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:20:02,208 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:20:02] "[35m[1mPOST /_dash-update-component HTTP/1.1[0m" 500 -
+2025-03-23 10:20:02,303 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:20:02] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:20:02,454 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:20:02] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:20:02,457 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:20:02] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:20:02,713 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:20:02] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:20:03,042 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:20:03] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:20:03,089 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:20:03] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:20:03,093 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:20:03] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:20:03,117 - app - ERROR - Exception on /_dash-update-component [POST]
+Traceback (most recent call last):
+  File "C:\Users\30946\anaconda3\Lib\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\30946\anaconda3\Lib\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\30946\anaconda3\Lib\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\30946\anaconda3\Lib\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\30946\anaconda3\Lib\site-packages\dash\dash.py", line 1405, in dispatch
+    ctx.run(
+  File "C:\Users\30946\anaconda3\Lib\site-packages\dash\_callback.py", line 529, in add_context
+    raise err
+  File "C:\Users\30946\anaconda3\Lib\site-packages\dash\_callback.py", line 518, in add_context
+    output_value = _invoke_callback(func, *func_args, **func_kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\30946\anaconda3\Lib\site-packages\dash\_callback.py", line 47, in _invoke_callback
+    return func(*args, **kwargs)  # %% callback invoked %%
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\ai¿ª·¢\ÐÅÏ¢¹¤³ÌÑ§Ôº´óÆÁÄ»Õ¹Ê¾\app.py", line 459, in update_skill_salary_chart
+    sizeref=2.*max(counts)/(40.**2),
+               ^^^^^^^^^^^
+ValueError: max() iterable argument is empty
+2025-03-23 10:20:03,121 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:20:03] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:20:03,146 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:20:03] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:20:03,164 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:20:03] "[35m[1mPOST /_dash-update-component HTTP/1.1[0m" 500 -
+2025-03-23 10:20:03,390 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:20:03] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:20:03,433 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:20:03] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:20:03,447 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:20:03] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:27:18,558 - JobCrawler - INFO - ¿ªÊ¼Ã¿ÈÕÅÀÈ¡ÈÎÎñ
+2025-03-23 10:27:18,581 - JobCrawler - INFO - ¿ªÊ¼ÅÀÈ¡ÖÇÁªÕÐÆ¸
+2025-03-23 10:27:18,589 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Java' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 10:27:19,116 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Python' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 10:27:20,280 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'C++' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 10:27:21,336 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Ç°¶Ë' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 10:27:22,351 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ºó¶Ë' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 10:27:23,134 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'È«Õ»' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 10:27:24,294 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Ëã·¨' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 10:27:24,814 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ÈË¹¤ÖÇÄÜ' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 10:27:25,863 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '»úÆ÷Ñ§Ï°' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 10:27:27,031 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Éî¶ÈÑ§Ï°' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 10:27:28,204 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Êý¾Ý·ÖÎö' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 10:27:29,068 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '´óÊý¾Ý' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 10:27:30,005 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ÔÆ¼ÆËã' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 10:27:30,857 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ÔËÎ¬' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 10:27:31,522 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '²âÊÔ' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 10:27:32,630 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '¿ª·¢' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 10:27:33,824 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '¼Ü¹¹Ê¦' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 10:27:35,253 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Êý¾Ý¿â' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 10:27:36,189 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ÍøÂç°²È«' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 10:27:36,822 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Èí¼þ¹¤³ÌÊ¦' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 10:27:38,273 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '³ÌÐòÔ±' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 10:27:38,888 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '¿ª·¢¹¤³ÌÊ¦' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 10:27:40,400 - JobCrawler - INFO - ´ÓÖÇÁªÕÐÆ¸»ñÈ¡ÁË 164 ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 10:27:40,414 - JobCrawler - INFO - ³É¹¦´ÓÖÇÁªÕÐÆ¸ÅÀÈ¡164ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 10:27:44,575 - JobCrawler - INFO - ¿ªÊ¼ÅÀÈ¡Ç°³ÌÎÞÓÇ
+2025-03-23 10:28:49,191 - JobCrawler - INFO - ³É¹¦´ÓÇ°³ÌÎÞÓÇÅÀÈ¡0ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 10:28:51,489 - JobCrawler - INFO - ¿ªÊ¼ÅÀÈ¡À­¹´Íø
+2025-03-23 10:30:34,392 - JobCrawler - INFO - ³É¹¦´ÓÀ­¹´ÍøÅÀÈ¡0ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 10:30:38,284 - JobCrawler - INFO - ¿ªÊ¼ÅÀÈ¡BOSSÖ±Æ¸
+2025-03-23 10:32:10,807 - JobCrawler - INFO - ³É¹¦´ÓBOSSÖ±Æ¸ÅÀÈ¡0ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 10:32:15,187 - JobCrawler - INFO - ³É¹¦±£´æ164ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 10:32:15,190 - JobCrawler - INFO - Ã¿ÈÕÅÀÈ¡ÈÎÎñÍê³É
+2025-03-23 10:32:18,989 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:32:18] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:33:10,940 - JobCrawler - INFO - ¿ªÊ¼Ã¿ÈÕÅÀÈ¡ÈÎÎñ
+2025-03-23 10:33:10,945 - JobCrawler - INFO - ¿ªÊ¼ÅÀÈ¡ÖÇÁªÕÐÆ¸
+2025-03-23 10:33:10,947 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Java' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 10:33:12,004 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Python' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 10:33:13,014 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'C++' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 10:33:14,009 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Ç°¶Ë' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 10:33:15,458 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ºó¶Ë' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 10:33:16,372 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:33:16] "GET / HTTP/1.1" 200 -
+2025-03-23 10:33:16,633 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'È«Õ»' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 10:33:16,896 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:33:16] "GET /_dash-layout HTTP/1.1" 200 -
+2025-03-23 10:33:16,944 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:33:16] "GET /_dash-dependencies HTTP/1.1" 200 -
+2025-03-23 10:33:16,953 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:33:16] "GET /_favicon.ico?v=3.0.0 HTTP/1.1" 200 -
+2025-03-23 10:33:17,135 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Ëã·¨' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 10:33:17,165 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:33:17] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:33:17,312 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:33:17] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:33:17,346 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:33:17] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:33:17,384 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:33:17] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:33:17,591 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:33:17] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:33:17,664 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:33:17] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:33:17,692 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:33:17] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:33:17,723 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:33:17] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:33:17,729 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:33:17] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:33:17,745 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:33:17] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:33:18,028 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:33:18] "[36mGET /_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1[0m" 304 -
+2025-03-23 10:33:18,088 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:33:18] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:33:18,113 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ÈË¹¤ÖÇÄÜ' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 10:33:18,304 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:33:18] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:33:18,608 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:33:18] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:33:18,642 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:33:18] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:33:18,692 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:33:18] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:33:18,754 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:33:18] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:33:18,771 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:33:18] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:33:18,786 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:33:18] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:33:19,012 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:33:19] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:33:19,024 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:33:19] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 10:33:19,031 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:33:19] "[36mGET /_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1[0m" 304 -
+2025-03-23 10:33:19,436 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '»úÆ÷Ñ§Ï°' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 10:33:20,878 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Éî¶ÈÑ§Ï°' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 10:33:21,496 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Êý¾Ý·ÖÎö' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 10:33:22,771 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '´óÊý¾Ý' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 10:33:23,695 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ÔÆ¼ÆËã' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 10:33:25,142 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ÔËÎ¬' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 10:33:25,885 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '²âÊÔ' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 10:33:26,564 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '¿ª·¢' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 10:33:28,046 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '¼Ü¹¹Ê¦' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 10:33:29,106 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Êý¾Ý¿â' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 10:33:30,503 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'ÍøÂç°²È«' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 10:33:31,805 - JobCrawler - INFO - Îª¹Ø¼ü´Ê 'Èí¼þ¹¤³ÌÊ¦' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 10:33:32,588 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '³ÌÐòÔ±' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 10:33:33,889 - JobCrawler - INFO - Îª¹Ø¼ü´Ê '¿ª·¢¹¤³ÌÊ¦' Éú³ÉÄ£ÄâÕÐÆ¸Êý¾Ý
+2025-03-23 10:33:34,492 - JobCrawler - INFO - ´ÓÖÇÁªÕÐÆ¸»ñÈ¡ÁË 165 ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 10:33:34,494 - JobCrawler - INFO - ³É¹¦´ÓÖÇÁªÕÐÆ¸ÅÀÈ¡165ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 10:33:39,474 - JobCrawler - INFO - ¿ªÊ¼ÅÀÈ¡Ç°³ÌÎÞÓÇ
+2025-03-23 10:34:25,175 - JobCrawler - INFO - ³É¹¦´ÓÇ°³ÌÎÞÓÇÅÀÈ¡0ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 10:34:27,828 - JobCrawler - INFO - ¿ªÊ¼ÅÀÈ¡À­¹´Íø
+2025-03-23 10:36:02,051 - JobCrawler - INFO - ³É¹¦´ÓÀ­¹´ÍøÅÀÈ¡0ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 10:36:04,228 - JobCrawler - INFO - ¿ªÊ¼ÅÀÈ¡BOSSÖ±Æ¸
+2025-03-23 10:37:31,807 - JobCrawler - INFO - ³É¹¦´ÓBOSSÖ±Æ¸ÅÀÈ¡0ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 10:37:35,209 - JobCrawler - INFO - ³É¹¦±£´æ165ÌõÕÐÆ¸ÐÅÏ¢
+2025-03-23 10:37:35,214 - JobCrawler - INFO - Ã¿ÈÕÅÀÈ¡ÈÎÎñÍê³É
+2025-03-23 10:37:38,429 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 10:37:38] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 11:48:52,473 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 11:48:52] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 11:48:54,737 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 11:48:54] "GET / HTTP/1.1" 200 -
+2025-03-23 11:48:54,944 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 11:48:54] "GET /_dash-layout HTTP/1.1" 200 -
+2025-03-23 11:48:54,961 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 11:48:54] "GET /_dash-dependencies HTTP/1.1" 200 -
+2025-03-23 11:48:55,310 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 11:48:55] "GET /_favicon.ico?v=3.0.0 HTTP/1.1" 200 -
+2025-03-23 11:48:55,336 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 11:48:55] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 11:48:55,355 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 11:48:55] "[36mGET /_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1[0m" 304 -
+2025-03-23 11:48:55,378 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 11:48:55] "[36mGET /_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1[0m" 304 -
+2025-03-23 11:48:55,579 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 11:48:55] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 11:48:55,823 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 11:48:55] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 11:48:55,852 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 11:48:55] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 11:48:55,855 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 11:48:55] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 11:48:55,861 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 11:48:55] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 11:48:55,872 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 11:48:55] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 11:48:55,934 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 11:48:55] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 11:48:56,184 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 11:48:56] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 11:48:56,193 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 11:48:56] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 11:48:56,426 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 11:48:56] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 11:48:56,768 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 11:48:56] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 11:48:56,813 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 11:48:56] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 11:48:56,844 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 11:48:56] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 11:48:56,880 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 11:48:56] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 11:48:56,897 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 11:48:56] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 11:48:56,914 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 11:48:56] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 11:48:57,141 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 11:48:57] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 11:48:57,165 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 11:48:57] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 11:48:57,175 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 11:48:57] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 11:49:09,369 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 11:49:09] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 11:52:53,030 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 11:52:53] "GET / HTTP/1.1" 200 -
+2025-03-23 11:52:53,215 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 11:52:53] "GET /_dash-dependencies HTTP/1.1" 200 -
+2025-03-23 11:52:53,300 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 11:52:53] "GET /_dash-layout HTTP/1.1" 200 -
+2025-03-23 11:52:53,574 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 11:52:53] "GET /_favicon.ico?v=3.0.0 HTTP/1.1" 200 -
+2025-03-23 11:52:53,697 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 11:52:53] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 11:52:53,699 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 11:52:53] "[36mGET /_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1[0m" 304 -
+2025-03-23 11:52:53,719 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 11:52:53] "[36mGET /_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1[0m" 304 -
+2025-03-23 11:52:54,071 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 11:52:54] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 11:52:54,110 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 11:52:54] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 11:52:54,139 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 11:52:54] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 11:52:54,188 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 11:52:54] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 11:52:54,216 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 11:52:54] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 11:52:54,227 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 11:52:54] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 11:52:54,499 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 11:52:54] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 11:52:54,501 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 11:52:54] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 11:52:54,515 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 11:52:54] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 11:52:54,701 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 11:52:54] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 11:52:55,042 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 11:52:55] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 11:52:55,062 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 11:52:55] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 11:52:55,080 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 11:52:55] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 11:52:55,113 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 11:52:55] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 11:52:55,120 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 11:52:55] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 11:52:55,131 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 11:52:55] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 11:52:55,389 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 11:52:55] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 11:52:55,393 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 11:52:55] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 11:52:55,402 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 11:52:55] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 12:00:53,220 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 12:00:53] "GET / HTTP/1.1" 200 -
+2025-03-23 12:00:53,472 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 12:00:53] "GET /_dash-dependencies HTTP/1.1" 200 -
+2025-03-23 12:00:53,482 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 12:00:53] "GET /_dash-layout HTTP/1.1" 200 -
+2025-03-23 12:00:53,867 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 12:00:53] "GET /_favicon.ico?v=3.0.0 HTTP/1.1" 200 -
+2025-03-23 12:00:53,876 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 12:00:53] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 12:00:53,877 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 12:00:53] "[36mGET /_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1[0m" 304 -
+2025-03-23 12:00:53,899 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 12:00:53] "[36mGET /_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1[0m" 304 -
+2025-03-23 12:00:54,105 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 12:00:54] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 12:00:54,250 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 12:00:54] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 12:00:54,288 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 12:00:54] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 12:00:54,293 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 12:00:54] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 12:00:54,328 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 12:00:54] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 12:00:54,351 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 12:00:54] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 12:00:54,439 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 12:00:54] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 12:00:54,673 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 12:00:54] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 12:00:54,696 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 12:00:54] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 12:00:54,918 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 12:00:54] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 12:00:55,270 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 12:00:55] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 12:00:55,291 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 12:00:55] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 12:00:55,304 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 12:00:55] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 12:00:55,321 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 12:00:55] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 12:00:55,352 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 12:00:55] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 12:00:55,355 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 12:00:55] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 12:00:55,622 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 12:00:55] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 12:00:55,653 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 12:00:55] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 12:00:55,668 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 12:00:55] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 20:41:43,228 - JobvncSystem - INFO - ÕÐÆ¸Êý¾Ý·ÖÎöÏµÍ³Æô¶¯
+2025-03-23 20:41:43,230 - JobvncSystem - INFO - ¶¨Ê±ÈÎÎñÒÑÉèÖÃ
+2025-03-23 20:41:43,230 - JobvncSystem - INFO - ¶¨Ê±ÈÎÎñµ÷¶ÈÆ÷ÒÑÔÚºóÌ¨Æô¶¯
+2025-03-23 20:41:43,230 - JobvncSystem - INFO - Æô¶¯WebÓ¦ÓÃ£¬¼àÌýµØÖ·: 0.0.0.0:8050
+2025-03-23 20:41:43,231 - dash.dash - INFO - Dash is running on http://0.0.0.0:8050/
+
+2025-03-23 20:41:43,272 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8050
+ * Running on http://192.168.10.181:8050
+2025-03-23 20:41:43,291 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-23 20:41:49,678 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 20:41:49] "GET / HTTP/1.1" 200 -
+2025-03-23 20:41:50,071 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 20:41:50] "GET /_dash-layout HTTP/1.1" 200 -
+2025-03-23 20:41:50,072 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 20:41:50] "GET /_dash-dependencies HTTP/1.1" 200 -
+2025-03-23 20:41:50,514 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 20:41:50] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 20:41:50,515 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 20:41:50] "[36mGET /_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1[0m" 304 -
+2025-03-23 20:41:50,538 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 20:41:50] "[36mGET /_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1[0m" 304 -
+2025-03-23 20:41:50,776 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 20:41:50] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 20:41:50,959 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 20:41:50] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 20:41:50,964 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 20:41:50] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 20:41:50,979 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 20:41:50] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 20:41:50,983 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 20:41:50] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 20:41:50,987 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 20:41:50] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 20:41:51,090 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 20:41:51] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 20:41:51,275 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 20:41:51] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 20:41:51,277 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 20:41:51] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 20:41:51,721 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 20:41:51] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 20:41:51,986 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 20:41:51] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 20:41:52,055 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 20:41:52] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 20:41:52,059 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 20:41:52] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 20:41:52,064 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 20:41:52] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 20:41:52,073 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 20:41:52] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 20:41:52,083 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 20:41:52] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 20:41:52,298 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 20:41:52] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 20:41:52,373 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 20:41:52] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 20:41:52,375 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 20:41:52] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 20:42:17,373 - LLMAnalyzer - ERROR - µ÷ÓÃ´óÄ£ÐÍAPI³ö´í: HTTPSConnectionPool(host='api.example.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B8D6E27080>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2025-03-23 20:42:17,386 - LLMAnalyzer - ERROR - ´óÄ£ÐÍ·ÖÎö³ö´í: HTTPSConnectionPool(host='api.example.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B8D6E27080>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2025-03-23 20:42:17,401 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 20:42:17] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 20:42:30,288 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 20:42:30] "GET / HTTP/1.1" 200 -
+2025-03-23 20:42:30,482 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 20:42:30] "GET /_dash-layout HTTP/1.1" 200 -
+2025-03-23 20:42:30,536 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 20:42:30] "GET /_dash-dependencies HTTP/1.1" 200 -
+2025-03-23 20:42:30,846 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 20:42:30] "GET /_favicon.ico?v=3.0.0 HTTP/1.1" 200 -
+2025-03-23 20:42:30,863 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 20:42:30] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 20:42:30,866 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 20:42:30] "[36mGET /_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1[0m" 304 -
+2025-03-23 20:42:30,872 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 20:42:30] "[36mGET /_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1[0m" 304 -
+2025-03-23 20:42:31,113 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 20:42:31] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 20:42:31,196 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 20:42:31] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 20:42:31,203 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 20:42:31] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 20:42:31,209 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 20:42:31] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 20:42:31,215 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 20:42:31] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 20:42:31,224 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 20:42:31] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 20:42:31,428 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 20:42:31] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 20:42:31,521 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 20:42:31] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 20:42:31,526 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 20:42:31] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 20:42:31,875 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 20:42:31] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 20:42:32,137 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 20:42:32] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 20:42:32,202 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 20:42:32] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 20:42:32,214 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 20:42:32] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 20:42:32,223 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 20:42:32] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 20:42:32,229 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 20:42:32] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 20:42:32,233 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 20:42:32] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 20:42:32,449 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 20:42:32] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 20:42:32,525 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 20:42:32] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-23 20:42:32,539 - werkzeug - INFO - 127.0.0.1 - - [23/Mar/2025 20:42:32] "POST /_dash-update-component HTTP/1.1" 200 -
